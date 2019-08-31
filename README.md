@@ -17,7 +17,7 @@ __06__ | 10.15 Tue | Presentation
 __07__ | 10.22 Tue | Presentation
 __08__ | 10.29 Tue | Presentation
 __09__ | 11.05 Tue | Presentation
-__Exam__ | 11.12 Tue | Final Exam (English)
+__Exam__ | 11.12 Tue | Final Exam (English for thesis writing)
 
 ## Classes: 
 * Lectures: Tues 3:30 – 5:20 PM
