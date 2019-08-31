@@ -9,14 +9,14 @@ No | Date | Contents
 --- | :---: | ---
 __01__ | 9.03 Tue | Course overview (**Peng** and **Choi**), Zotero
 __02__ | 9.10 Tue | Lecture (**Peng**): Factor model
-__03__ | 9.17 Tue | Lecture (**Choi**)
-__04__ | 9.24 Tue | Lecture (**Peng**)
+__03__ | 9.17 Tue | Lecture (**Peng**)
+__04__ | 9.24 Tue | Lecture (**Choi**)
  x | x | __No Class: National Day Week__
 __05__ | 10.08 Tue | Lecture (**Choi**)
-__06__ | 10.15 Tue | Presentation
-__07__ | 10.22 Tue | Presentation
-__08__ | 10.29 Tue | Presentation
-__09__ | 11.05 Tue | Presentation
+__06__ | 10.15 Tue | Presentation (**Peng**)
+__07__ | 10.22 Tue | Presentation (**Choi**)
+__08__ | 10.29 Tue | Presentation (**Peng**)
+__09__ | 11.05 Tue | Presentation (**Choi**)
 __Exam__ | 11.12 Tue | Final Exam (English for thesis writing)
 
 ## Classes: 
