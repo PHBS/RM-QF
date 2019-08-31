@@ -7,8 +7,8 @@
 ## Lectures
 No | Date | Contents
 --- | :---: | ---
-__01__ | 9.03 Tue | Course overview (**Peng** and **Choi**)
-__02__ | 9.10 Tue | Lecture (**Peng**)
+__01__ | 9.03 Tue | Course overview (**Peng** and **Choi**), Zotero
+__02__ | 9.10 Tue | Lecture (**Peng**): Factor model
 __03__ | 9.17 Tue | Lecture (**Choi**)
 __04__ | 9.24 Tue | Lecture (**Peng**)
  x | x | __No Class: National Day Week__
