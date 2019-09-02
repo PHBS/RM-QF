@@ -23,7 +23,7 @@ __Exam__ | 11.12 Tue | Final Exam (English for thesis writing)
 * Lectures: Tues 3:30 – 5:20 PM
 * Venue: PHBS Building, Room 209
 
-## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en) / [Xianhua Peng](http://www.jaehyukchoi.net/phbs_en)
+## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en) / [Xianhua Peng](https://english.phbs.pku.edu.cn/content-627-104-1.html)
 * Office: PHBS Building, Room 755 / 756
 * Phone: 86-755-2603-0568 / 3050
 * Email: jaehyuk / xianhuapeng @ phbs.pku.edu.cn
