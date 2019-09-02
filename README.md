@@ -7,12 +7,12 @@
 ## Lectures
 No | Date | Contents
 --- | :---: | ---
-__01__ | 9.03 Tue | Course overview (**Peng** and **Choi**), Zotero
-__02__ | 9.10 Tue | Lecture (**Peng**): Factor model
-__03__ | 9.17 Tue | Lecture (**Peng**)
+__01__ | 9.03 Tue | Lecture (**Peng** and **Choi**): Overview, Zotero
+__02__ | 9.10 Tue | Lecture (**Choi**): 
+__03__ | 9.17 Tue | Lecture (**Peng**): Factor model
 __04__ | 9.24 Tue | Lecture (**Choi**)
  x | x | __No Class: National Day Week__
-__05__ | 10.08 Tue | Lecture (**Choi**)
+__05__ | 10.08 Tue | Lecture (**Peng**)
 __06__ | 10.15 Tue | Presentation (**Peng**)
 __07__ | 10.22 Tue | Presentation (**Choi**)
 __08__ | 10.29 Tue | Presentation (**Peng**)
@@ -26,11 +26,11 @@ __Exam__ | 11.12 Tue | Final Exam (English for thesis writing)
 ## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en) / [Xianhua Peng](http://www.jaehyukchoi.net/phbs_en)
 * Office: PHBS Building, Room 755 / 756
 * Phone: 86-755-2603-0568 / 3050
-* Email: jaehyuk / xianhuapeng @phbs.pku.edu.cn
+* Email: jaehyuk / xianhuapeng @ phbs.pku.edu.cn
 * Office Hour: TBA
 
-## Teaching Assistance: TBA
-* Email: xxxx@pku.edu.cn
+## Teaching Assistance: "Aaron" Gan WU (吴淦)
+* Email: 1701212974@sz.pku.edu.cn
 * TA Office Hour: TBA (Room 213/214)
 
 ## Course overview: 
