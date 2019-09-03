@@ -1,12 +1,9 @@
 # Research Methodology for Quant Finance and FinTech, 2019-20 Module 1 (Fall 2019)
 
-## Resources
-* [Zotero Group Library](https://www.zotero.org/groups/2363301/phbs-rm-f1)
-
 ## Lectures
 No | Date | Contents
 --- | :---: | ---
-__01__ | 9.03 Tue | Lecture (**Peng** and **Choi**): Overview, Zotero
+__01__ | 9.03 Tue | Lecture (**Peng** and **Choi**): Overview, [Zotero](zotero.md)
 __02__ | 9.10 Tue | Lecture (**Choi**): 
 __03__ | 9.17 Tue | Lecture (**Peng**): Factor model
 __04__ | 9.24 Tue | Lecture (**Choi**)
