@@ -2,7 +2,6 @@
 
 ## Resources
 * [Zotero Group Library](https://www.zotero.org/groups/2363301/phbs-rm-f1)
-* [The Elements of Style, Fourth Edition](https://www.amazon.com/Elements-Style-Fourth-William-Strunk-ebook/dp/B07NPN5HTP/ref=dp_kinw_strp_1)
 
 ## Lectures
 No | Date | Contents
@@ -36,11 +35,19 @@ __Exam__ | 11.12 Tue | Final Exam (English for thesis writing)
 ## Course overview: 
 The general purpose of the Research Methodology course to prepare students for conducting research and writing thesis. This particular session (F1) is customized for the students who are going to write thesis on a quantitative topics such as mathematical finance, financial engineering, and fintech. Throughout this course, students will first learn what are good research topics by examples. Then, students will be required to their own thesis topics and present in class. It is strongly encouraged that the students pick a **real** topic that they will work for thesis. The course will also equip students with several practical tools such as reference management software and English for thesis writing. 
 
-## Prerequisites: 
-There is no prerequisite for this course.
+## Proposal Presentation: (4 weeks)
+* Each student should propose a thesis idea that can be developed to thesis. 
+* Write a proposal consist of literature review and new element. The proposal write-up should be in such a level to be used as the introduction section of the thesis.
+* Present the preposal in class (4 weeks): about 10 minutes including quick discussion/comments.
+
+## Final Exam: English for writing
+* _The Elements of Style, Fourth Edition_ by Struck and White: [Amazon](https://www.amazon.com/Elements-Style-Fourth-William-Strunk-ebook/dp/B07NPN5HTP/ref=dp_kinw_strp_1)
+* English for Writing Research Papers: Useful Pharase: [Download](https://www.springer.com/cda/content/document/cda_downloaddocument/Free+Download+-+Useful+Phrases.pdf?SGWID=0-0-45-1543172-p177775190)
+
+## Prerequisites: None
 
 ## Assessment/Grading Details
-Attendance 20%, Assignments 10%, Presentation 40%, Final Exam 30%
-* __Presentation__: Group up to 2 people or individual
+Attendance 20%, Assignments 10%, Thesis Proposal 40%, Final Exam 30%
+* __Presentation__: proposal write-up / presentation in class
 * __Attendance__: Randomly checked. The score is calculated as 20 – 2`x`(#of absence). Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
 * __Grade__ in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or below > 10%__.
