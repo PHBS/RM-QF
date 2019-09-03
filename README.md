@@ -3,7 +3,7 @@
 ## Lectures
 No | Date | Contents
 --- | :---: | ---
-__01__ | 9.03 Tue | Lecture (**Peng** and **Choi**): Overview, [Zotero](zotero.md)
+__01__ | 9.03 Tue | Lecture (**Peng** and **Choi**): Overview, [Thesis trend](thesis_trend.md), [Zotero](zotero.md)
 __02__ | 9.10 Tue | Lecture (**Choi**): 
 __03__ | 9.17 Tue | Lecture (**Peng**): Factor model
 __04__ | 9.24 Tue | Lecture (**Choi**)
