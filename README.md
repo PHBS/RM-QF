@@ -3,16 +3,16 @@
 ## Lectures
 No | Date | Contents
 --- | :---: | ---
-__01__ | 9.03 Tue | Lecture (**Peng** and **Choi**): Overview, [Thesis trend](thesis_trend.md), [Zotero](zotero.md)
-__02__ | 9.10 Tue | Lecture (**Choi**): 
-__03__ | 9.17 Tue | Lecture (**Peng**): Factor model
+__01__ | 9.03 Tue | Lecture (**Peng** and **Choi**): Overview, [Thesis trend](thesis_trend.md), [Zotero](zotero.md), How do to good research
+__02__ | 9.10 Tue | Lecture (**Choi**): [Zotero](zotero.md) with MS Word, [Structure](thesis_structure.md), [Contribution](thesis_contribution.md)
+__03__ | 9.17 Tue | Lecture (**Peng**)
 __04__ | 9.24 Tue | Lecture (**Choi**)
  x | x | __No Class: National Day Week__
 __05__ | 10.08 Tue | Lecture (**Peng**)
-__06__ | 10.15 Tue | Presentation (**Peng**)
-__07__ | 10.22 Tue | Presentation (**Choi**)
-__08__ | 10.29 Tue | Presentation (**Peng**)
-__09__ | 11.05 Tue | Presentation (**Choi**)
+__06__ | 10.15 Tue | Proposal Presentation (**Peng**)
+__07__ | 10.22 Tue | Proposal Presentation (**Choi**)
+__08__ | 10.29 Tue | Proposal Presentation (**Peng**)
+__09__ | 11.05 Tue | Proposal Presentation (**Choi**)
 __Exam__ | 11.12 Tue | Final Exam (English for thesis writing)
 
 ## Classes: 
