@@ -3,10 +3,10 @@
 
 ## Abstract
 * A short summary of the paper.
-* In finance/econ jornals, abstract is limited to 100 words or less.
-* Authors: primary advertisement of the paper. 
+* In many finance/econ journals, abstract is limited to 100 words or less.
+* Authors: primary advertisement of the paper they write. 
 * Reader: good way to find out if this paper is relavant or what is the contribution without reading the whole paper. 
-* Useful Tips:
+* Useful tips to read abstract:
   * You may not understand the meaning of abtract at first.
   * Read several times: everytime you finish reading each sections (introduction, etc)
   * Read it with your own questions: 
@@ -17,13 +17,14 @@
   * Literature review: important research on the same question. 
   * Contribution of the study: Why this paper is 
 * Typically ends with `This paper is organized as follows. Section 1 discusses ...`: 
-* No 
+* There is no strict rule on how to organize introduction.
 
 ## 2. Data/Method (Preliminary)
-* 
+* Describe data, method (existing and new)
 
 ## 3. Main Result (Contribution)
-* 
+* State main result
+* In quantitative papers, numerical results are presented.
 
 ## X. Conclusion
 * Rephrase of the main result (similar to abstract)
@@ -33,7 +34,6 @@
 # Structure of MA thesis
 * Introduction should be written in more detail compared to journal papers.
 * Give Literature Review in a separate chapter.
-* 
 
 ## Example 1:
 ```
