@@ -3,8 +3,8 @@
 ## Lectures
 No | Date | Contents
 --- | :---: | ---
-__01__ | 9.03 Tue | Lecture (**Peng** and **Choi**): Overview, [Thesis trend](thesis_trend.md), [Zotero](zotero.md), How do to good research
-__02__ | 9.10 Tue | Lecture (**Choi**): [Zotero](zotero.md) with MS Word, [Structure](thesis_structure.md), [Contribution](thesis_contribution.md)
+__01__ | 9.03 Tue | Lecture (**Peng** and **Choi**): Overview, [Thesis trend](files/thesis_trend.md), [Zotero](files/zotero.md), How do to good research
+__02__ | 9.10 Tue | Lecture (**Choi**): [Zotero](files/zotero.md) with MS Word, [Structure](files/thesis_structure.md), [Contribution](files/thesis_contribution.md)
 __03__ | 9.17 Tue | Lecture (**Peng**)
 __04__ | 9.24 Tue | Lecture (**Choi**)
  x | x | __No Class: National Day Week__
