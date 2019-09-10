@@ -16,5 +16,8 @@
 
 ## Zotero plug-in for MS Word
 * Install MS Word plugin: `Edit` - `Preferences` - `Cite` - `Word Processors`
+
 ![Word Plugin Install](../images/msword_plugin.png)
+
+![Word Plugin Menu](../images/msword_menu.png)
 
