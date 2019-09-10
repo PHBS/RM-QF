@@ -10,8 +10,8 @@
 ## To do
 * Install Zotero (Zotero for your OS + Browser Connector): [Download](https://www.zotero.org/download/)
 * Create your account (free) and join the [Group Library: RM-F1](https://www.zotero.org/groups/2363301/phbs-rm-f1)
-![GitHub Logo](images/Group-Join.PNG)
+![GitHub Logo](../images/Group-Join.PNG)
 * Make sure to put your full name under profile
-![GitHub Logo](images/Profile-Name.PNG)
+![GitHub Logo](../images/Profile-Name.PNG)
 
 ## Zotero plug-in for MS Word (Incomplete)
