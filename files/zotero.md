@@ -19,5 +19,5 @@
 
 ![Word Plugin Install](../images/msword_plugin.png)
 
-![Word Plugin Menu](../images/msword_menu.png)
+![Word Plugin Menu](../images/msword_menu.PNG)
 
