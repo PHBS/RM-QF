@@ -5,7 +5,7 @@ No | Date | Contents
 --- | :---: | ---
 __01__ | 9.03 Tue | Lecture (**Choi**): Overview, [Thesis trend](files/thesis_trend.md), and [Zotero](files/zotero.md), (**Peng**): [Introduction](files/Introduction-Peng.pdf)
 __02__ | 9.10 Tue | Lecture (**Choi**): [Zotero](files/zotero.md) with MS Word, [Structure](files/thesis_structure.md), [Topic and Contribution](files/thesis_contribution.md), [Bitcoin Literature Review](files/bitcoin_finance_review.md)
-__03__ | 9.17 Tue | Lecture (**Peng**): [Asset Pricing with Spatial Interaction](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2627), [A Jump-Diffusion Model for Option Pricing](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.48.8.1086.166). Papers avilable in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-f1).
+__03__ | 9.17 Tue | Lecture (**Peng**): [Asset Pricing with Spatial Interaction](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2627), [A Jump-Diffusion Model for Option Pricing](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.48.8.1086.166). Papers and slides avilable in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-f1).
 __04__ | 9.24 Tue | Lecture (**Choi**)
  x | x | __No Class: National Day Week__
 __05__ | 10.08 Tue | Lecture (**Peng**)
