@@ -1,9 +1,9 @@
 # Quant Finance Topics
+* Below is an overview of quant finance topics biased by my research
+
 
 # Sell Side Research
-* 
-* Use online resources: Github, Q&A Webiste
-* Practitioner Journal: Risk Magazine, Wilmott, 
+* Relatively more established as a academic field: easier to find literature, easier to add contribution
 
 ## Goals of Research
 * How to model 
@@ -42,14 +42,13 @@
 * Heston Model: Broadie, M., Kaya, Ö., 2006. Exact Simulation of Stochastic Volatility and Other Affine Jump Diffusion Processes. Operations Research 54, 217–231. https://doi.org/10.1287/opre.1050.0247
 
 * 3/2 Model: Baldeaux, J., 2012. Exact simulation of the 3/2 model. Int. J. Theor. Appl. Finan. 15, 1250032. https://doi.org/10.1142/S021902491250032X 
-* SABR Model: Cai, N., Song, Y., Chen, N., 2017. Exact Simulation of the SABR Model. Operations Research 65, 931–951. https://doi.org/10.1287/opre.2017.1617 | Choi, J., Liu, C., Seo, B.K., 2019. Hyperbolic normal stochastic volatility model. Journal of Futures Markets 39, 186–204. https://doi.org/10.1002/fut.21967
-* OU Stochastic Volatility Model: Li, C., Wu, L., 2019. Exact simulation of the Ornstein–Uhlenbeck driven stochastic volatility model. European Journal of Operational Research 275, 768–779. https://doi.org/10.1016/j.ejor.2018.11.057
+* SABR Model: Cai, N., Song, Y., Chen, N., 2017. Exact Simulation of the SABR Model. Operations Research 65, 931–951. https://doi.org/10.1287/opre.2017.1617 | Choi, J., Liu, C., Seo, B.K., 2019. **Hyperbolic normal stochastic volatility model.** Journal of Futures Markets 39, 186–204. https://doi.org/10.1002/fut.21967
+* OU Stochastic Volatility Model: Li, C., Wu, L., 2019. **Exact simulation of the Ornstein–Uhlenbeck driven stochastic volatility model.** European Journal of Operational Research 275, 768–779. https://doi.org/10.1016/j.ejor.2018.11.057
 
-
-## Combination (Mix and Match)
+## Mix and Match to add new component
 * Model + Product
 * Model + Method
-* 
+* Product + China Market Data
 
 ## Tips
 * Pay attention to practitioner journals:
@@ -66,12 +65,17 @@
   * Github.com
 
 # Buy Side Research
+* Less established as an academic research.
 
 ## Profolio Selection/Optimization
 * Min variance, Risk Parity ([Wiki](https://en.wikipedia.org/wiki/Risk_parity); Equal Risk Contribution)
 
 ## Trading Strategy
 * Alpha strategy
+
+## Caution
+* Just showing good performance of strategy is NOT enough. Need add academic components.
+
 
 # FinTech Topics
 
@@ -88,6 +92,5 @@
   * __Advances in Financial Machine Learning__: [Link](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086) | [Github](https://github.com/ssunger/Advances-in-Financial-Machine-Learning)
   * __Digital Finance__: [Link](https://www.springer.com/finance/journal/42521)
   * __Journal of Financial Data Science__: [Link](https://jfds.pm-research.com/)
- 
  
  
