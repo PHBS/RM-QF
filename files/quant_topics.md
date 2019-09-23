@@ -33,21 +33,26 @@
   * Bayer, C., Friz, P., **Gatheral, J.**, 2016. **Pricing under rough volatility.** Quantitative Finance 16, 887–904. https://doi.org/10.1080/14697688.2015.1099717
 
 ## Derivative Products (Payout)
-* Barrier Option (Knock-in, Knock-out), Rainbow Option, Spread/Basket/Asian Option, Lookback Option, Compound Option
+* Spread/Basket/Asian Option
+  * Krekel, M., de Kock, J., Korn, R., Man, T.-K., 2004. **An analysis of pricing methods for basket options.** Wilmott Magazine 2004, 82–89. 
+  * Choi, J., 2018. **Sum of all Black-Scholes-Merton models: An efficient pricing method for spread, basket, and Asian options.** Journal of Futures Markets 38, 627–644. https://doi.org/10.1002/fut.21909
 * Timer Option 
   * Li, C., 2016. **Bessel Processes, Stochastic Volatility, and Timer Options.** Mathematical Finance 26, 122–148. https://doi.org/10.1111/mafi.12041
   * Li, M., Mercurio, F., 2015. **Analytic Approximation of Finite‐Maturity Timer Option Prices.** Journal of Futures Markets 35, 245–273. https://doi.org/10.1002/fut.21659
   * Bernard, C., Cui, Z., 2011. **Pricing timer options.** Journal of Computational Finance 15, 69–104. https://doi.org/10.21314/JCF.2011.228
+* Barrier Option (Knock-in, Knock-out), Rainbow Option, Lookback Option, Compound Option, Etc
 * Cliquet Option
 * Parisian Option
 * American/Bermudan Option
 * VIX Index (Future, Options on Futures, Etc)
 * Variance Swap
 
-## Exact Monte-Carlo Simulation
-* Heston Model: Broadie, M., Kaya, Ö., 2006. Exact Simulation of Stochastic Volatility and Other Affine Jump Diffusion Processes. Operations Research 54, 217–231. https://doi.org/10.1287/opre.1050.0247
-* 3/2 Model: Baldeaux, J., 2012. Exact simulation of the 3/2 model. Int. J. Theor. Appl. Finan. 15, 1250032. https://doi.org/10.1142/S021902491250032X 
-* SABR Model: Cai, N., Song, Y., Chen, N., 2017. Exact Simulation of the SABR Model. Operations Research 65, 931–951. https://doi.org/10.1287/opre.2017.1617 | Choi, J., Liu, C., Seo, B.K., 2019. **Hyperbolic normal stochastic volatility model.** Journal of Futures Markets 39, 186–204. https://doi.org/10.1002/fut.21967
+## Monte-Carlo Simulation
+* Heston Model: 
+  * Andersen, L., 2008. **Simple and efficient simulation of the Heston stochastic volatility model.** The Journal of Computational Finance 11, 1–42. https://doi.org/10.21314/JCF.2008.189
+  * Broadie, M., Kaya, Ö., 2006. **Exact Simulation of Stochastic Volatility and Other Affine Jump Diffusion Processes.** Operations Research 54, 217–231. https://doi.org/10.1287/opre.1050.0247
+* 3/2 Model: Baldeaux, J., 2012. **Exact simulation of the 3/2 model.** Int. J. Theor. Appl. Finan. 15, 1250032. https://doi.org/10.1142/S021902491250032X 
+* SABR Model: Cai, N., Song, Y., Chen, N., 2017. **Exact Simulation of the SABR Model.** Operations Research 65, 931–951. https://doi.org/10.1287/opre.2017.1617 | Choi, J., Liu, C., Seo, B.K., 2019. **Hyperbolic normal stochastic volatility model.** Journal of Futures Markets 39, 186–204. https://doi.org/10.1002/fut.21967
 * OU Stochastic Volatility Model: Li, C., Wu, L., 2019. **Exact simulation of the Ornstein–Uhlenbeck driven stochastic volatility model.** European Journal of Operational Research 275, 768–779. https://doi.org/10.1016/j.ejor.2018.11.057
 
 ## Mix and Match for new contribution
