@@ -44,7 +44,6 @@
 * SABR Model:
 *
 
-
 ## Combination (Mix and Match)
 * New Model + New Product
 * New Method + New Product
@@ -53,7 +52,22 @@
 # Buy Side Research
 
 ## Profolio Selection/Optimization
-
+* Min variance
+* Equal parity
 
 ## Trading Strategy
+* Alpha strategy
+
+# FinTech Topics
+
+## Bitcoin Literature Review: [Link](https://github.com/PHBS/RM-F1/blob/master/files/bitcoin_finance_review.md)
+
+## Crypto + Quant Finance
+* Bitcoin Option Pricing: which process fits bitcoin option markets better?
+  * Madan, D.B., Reyners, S., Schoutens, W., 2019. Advanced model calibration on bitcoin options. Digit Finance. https://doi.org/10.1007/s42521-019-00002-1
+* VIX index in Cyprocurrency: Alexander, C., Imeraj, A., 2019. The Crypto Investor Fear Gauge and the Bitcoin Variance Risk Premium (SSRN Scholarly Paper No. ID 3383734). Social Science Research Network, Rochester, NY.
+
+## Financial Machine Learning:
+* Book: 
+*
 
