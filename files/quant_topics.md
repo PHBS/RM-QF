@@ -72,6 +72,9 @@
 * VIX index in Cyprocurrency: Alexander, C., Imeraj, A., 2019. The Crypto Investor Fear Gauge and the Bitcoin Variance Risk Premium (SSRN Scholarly Paper No. ID 3383734). Social Science Research Network, Rochester, NY.
 
 ## Financial Machine Learning:
-* Book: 
-*
 
+### Books and Jorunals
+  * __Advances in Financial Machine Learning__: [Link](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086) | [Github](https://github.com/ssunger/Advances-in-Financial-Machine-Learning)
+  * __Digital Finance__: [Link](https://www.springer.com/finance/journal/42521)
+  * __Journal of Financial Data Science__: [Link](https://jfds.pm-research.com/)
+ 
