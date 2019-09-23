@@ -1,6 +1,21 @@
 # Quant Finance Topics
 * Below is an overview of quant finance topics limited by my knowledge and biased by my research
 
+## General Tips
+* Pick practical topic. Beneficial to your job or future career?
+* Pay attention to practitioner journals:
+  * __Risk Magazine__: [Link](https://www.risk.net/risk-magazine)
+  * __Journal of Computational Finance__: [Link](https://www.risk.net/journal-of-computational-finance)
+  * __Wilmott Magazine__: [Link](https://wilmott.com/category/magazine/)
+  * __Journal of Derivatives__: [Link](https://jod.pm-research.com/)
+  * __Journal of Portfolio Management__: [Link](https://jpm.pm-research.com)
+  * __Financial Analysts Journal__: [Link](https://www.cfainstitute.org/en/research/financial-analysts-journal)
+* Use online resources (Q&A, forum, code, etc):
+  * Quantitative Finance Stack Exchange: [Link](https://quant.stackexchange.com)
+  * Wilmott Forum: [Link](https://forum.wilmott.com/). Technical Forum, Trading Forum, Numerical Methods Forum.
+  * Quantopian (The Place For Learning Quant Finance): [Link](https://www.quantopian.com/)
+  * Github.com
+  
 # Sell Side Research
 * Relatively more established as a academic field: easier to find literature, easier to add contribution
 
@@ -59,20 +74,6 @@
 * Model + Product
 * Model + Method
 * Product + China Market Data
-
-## Tips
-* Pay attention to practitioner journals:
-  * __Risk Magazine__: [Link](https://www.risk.net/risk-magazine)
-  * __Journal of Computational Finance__: [Link](https://www.risk.net/journal-of-computational-finance)
-  * __Wilmott Magazine__: [Link](https://wilmott.com/category/magazine/)
-  * __Journal of Derivatives__: [Link](https://jod.pm-research.com/)
-  * __Journal of Portfolio Management__: [Link](https://jpm.pm-research.com)
-  * __Financial Analysts Journal__: [Link](https://www.cfainstitute.org/en/research/financial-analysts-journal)
-* Use online resources (Q&A, forum, code, etc):
-  * Quantitative Finance Stack Exchange: [Link](https://quant.stackexchange.com)
-  * Wilmott Forum: [Link](https://forum.wilmott.com/). Technical Forum, Trading Forum, Numerical Methods Forum.
-  * Quantopian (The Place For Learning Quant Finance): [Link](https://www.quantopian.com/)
-  * Github.com
 
 ## Caultion
   * Stochastic Process
