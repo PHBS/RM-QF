@@ -18,6 +18,8 @@
   
 # Sell Side Research
 * Relatively more established as a academic field: easier to find literature, easier to add contribution
+* For sell vs buy side, read 
+  * Meucci, A., 2011. **“P” Versus “Q”: Differences and Commonalities between the Two Areas of Quantitative Finance.** SSRN Electronic Journal. https://papers.ssrn.com/abstract=1717163
 
 ## Goals of Research
 * How to model 
@@ -33,8 +35,8 @@
 * Arithmetic BM: Normal (Bachelier) Model 
 * Ornstein-Uhlenbeck (OU) Process: [Wiki](https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process)
 * Constant-Elasticity-Of-Variance (CEV) Model: [Wiki](https://en.wikipedia.org/wiki/Constant_elasticity_of_variance_model)
-  * Analytic Option Pricing: Schroder, M., 1989. Computing the constant elasticity of variance option pricing formula. Journal of Finance 44, 211–219. https://doi.org/10.1111/j.1540-6261.1989.tb02414.x
-  * Various Approximation: Larguinho, M., Dias, J.C., Braumann, C.A., 2013. On the computation of option prices and Greeks under the CEV model. Quantitative Finance 13, 907–917. https://doi.org/10.1080/14697688.2013.765958
+  * Analytic Option Pricing: Schroder, M., 1989. **Computing the constant elasticity of variance option pricing formula.** Journal of Finance 44, 211–219. https://doi.org/10.1111/j.1540-6261.1989.tb02414.x
+  * Various Approximation: Larguinho, M., Dias, J.C., Braumann, C.A., 2013. **On the computation of option prices and Greeks under the CEV model.** Quantitative Finance 13, 907–917. https://doi.org/10.1080/14697688.2013.765958
 * Stochastic Volatility Models: see [Wiki](https://en.wikipedia.org/wiki/Stochastic_volatility) for SDE.
   * Heston Model: Heston, S.L., 1993. **A closed-form solution for options with stochastic volatility with applications to bond and currency options.** Review of Financial Studies 6, 327–343. https://doi.org/10.1093/rfs/6.2.327
   * SABR Model: Hagan, P.S., Kumar, D., Lesniewski, A.S., Woodward, D.E., 2002. **Managing smile risk.** Wilmott Magazine 2002, 84–108.
@@ -91,7 +93,7 @@
 
 ## Trading Strategy
 * Alpha strategy
-  * Kakushadze, Z., Serur, J.A., 2018. 151 Trading Strategies. SSRN Electronic Journal. https://papers.ssrn.com/abstract=3247865
+  * Kakushadze, Z., Serur, J.A., 2018. **151 Trading Strategies.** SSRN Electronic Journal. https://papers.ssrn.com/abstract=3247865
 * Can machine learning predict outperforming strategy given economic situation?
 * Consider uncommon asset clas (e.g., not equity): commodity, interest rates, fx, etc.
 
@@ -105,8 +107,8 @@
 
 ## Crypto + Quant Finance
 * Bitcoin Option Pricing: which process fits bitcoin option markets better?
-  * Madan, D.B., Reyners, S., Schoutens, W., 2019. Advanced model calibration on bitcoin options. Digit Finance. https://doi.org/10.1007/s42521-019-00002-1
-* VIX index in Cyprocurrency: Alexander, C., Imeraj, A., 2019. The Crypto Investor Fear Gauge and the Bitcoin Variance Risk Premium (SSRN Scholarly Paper No. ID 3383734). Social Science Research Network, Rochester, NY.
+  * Madan, D.B., Reyners, S., Schoutens, W., 2019.** Advanced model calibration on bitcoin options.** Digit Finance. https://doi.org/10.1007/s42521-019-00002-1
+* VIX index in Cyprocurrency: Alexander, C., Imeraj, A., 2019. **The Crypto Investor Fear Gauge and the Bitcoin Variance Risk Premium** (SSRN Scholarly Paper No. ID 3383734). Social Science Research Network, Rochester, NY.
 
 ## Financial Machine Learning:
 * Current focus is in asset pricing (return prediction)
