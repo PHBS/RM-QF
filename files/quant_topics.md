@@ -39,10 +39,14 @@
 * Variance Swap
 
 ## Exact Monte-Carlo Simulation
-* Heston Model:
-* 3/2 Model:
-* SABR Model:
-*
+* Heston Model: Broadie, M., Kaya, Ö., 2006. Exact Simulation of Stochastic Volatility and Other Affine Jump Diffusion Processes. Operations Research 54, 217–231. https://doi.org/10.1287/opre.1050.0247
+
+* 3/2 Model: Baldeaux, J., 2012. Exact simulation of the 3/2 model. Int. J. Theor. Appl. Finan. 15, 1250032. https://doi.org/10.1142/S021902491250032X 
+* SABR Model: Cai, N., Song, Y., Chen, N., 2017. Exact Simulation of the SABR Model. Operations Research 65, 931–951. https://doi.org/10.1287/opre.2017.1617 | Choi, J., Liu, C., Seo, B.K., 2019. Hyperbolic normal stochastic volatility model. Journal of Futures Markets 39, 186–204. https://doi.org/10.1002/fut.21967
+* OU Stochastic Volatility Model: Li, C., Wu, L., 2019. Exact simulation of the Ornstein–Uhlenbeck driven stochastic volatility model. European Journal of Operational Research 275, 768–779. https://doi.org/10.1016/j.ejor.2018.11.057
+
+  
+
 
 ## Combination (Mix and Match)
 * New Model + New Product
