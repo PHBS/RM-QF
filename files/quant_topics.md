@@ -1,6 +1,5 @@
 # Quant Finance Topics
-* Below is an overview of quant finance topics biased by my research
-
+* Below is an overview of quant finance topics limited by my knowledge and biased by my research
 
 # Sell Side Research
 * Relatively more established as a academic field: easier to find literature, easier to add contribution
@@ -21,20 +20,24 @@
 * Constant-Elasticity-Of-Variance (CEV) Model: [Wiki](https://en.wikipedia.org/wiki/Constant_elasticity_of_variance_model)
   * Analytic Option Pricing: Schroder, M., 1989. Computing the constant elasticity of variance option pricing formula. Journal of Finance 44, 211–219. https://doi.org/10.1111/j.1540-6261.1989.tb02414.x
   * Various Approximation: Larguinho, M., Dias, J.C., Braumann, C.A., 2013. On the computation of option prices and Greeks under the CEV model. Quantitative Finance 13, 907–917. https://doi.org/10.1080/14697688.2013.765958
-* Stochastic Volatility Models:
-  * Heston Model
-  * SABR Model:
-  * 3/2 Model:
-  * 4/2 Model:
-  * OU Stochastic Process:
+* Stochastic Volatility Models: see [Wiki](https://en.wikipedia.org/wiki/Stochastic_volatility) for SDE.
+  * Heston Model: Heston, S.L., 1993. **A closed-form solution for options with stochastic volatility with applications to bond and currency options.** Review of Financial Studies 6, 327–343. https://doi.org/10.1093/rfs/6.2.327
+  * SABR Model: Hagan, P.S., Kumar, D., Lesniewski, A.S., Woodward, D.E., 2002. **Managing smile risk.** Wilmott Magazine 2002, 84–108.
+  * 3/2 Model: Creator unclear.
+  * 4/2 Model: Grasselli, M., 2017. **The 4/2 Stochastic Volatility Model: A Unified Approach for the Heston and the 3/2 Model.** Mathematical Finance 27, 1013–1034. https://doi.org/10.1111/mafi.12124
+  * OU Stochastic Process: 
+* Jump diffusion: 
+  * Kou, S.G., 2002. A Jump-Diffusion Model for Option Pricing. Management Science 48, 1086–1101. https://doi.org/10.1287/mnsc.48.8.1086.166
 * Rough Volatility (Fractional Brownina Motion, [Wiki](https://en.wikipedia.org/wiki/Fractional_Brownian_motion))
   * **Gatheral, J.**, Jaisson, T., Rosenbaum, M., 2018. **Volatility is rough.** Quantitative Finance 18, 933–949. https://doi.org/10.1080/14697688.2017.1393551
   * Bayer, C., Friz, P., **Gatheral, J.**, 2016. **Pricing under rough volatility.** Quantitative Finance 16, 887–904. https://doi.org/10.1080/14697688.2015.1099717
 
-
 ## Derivative Products (Payout)
 * Barrier Option (Knock-in, Knock-out), Rainbow Option, Spread/Basket/Asian Option, Lookback Option, Compound Option
-* Timer Option
+* Timer Option 
+  * Li, C., 2016. **Bessel Processes, Stochastic Volatility, and Timer Options.** Mathematical Finance 26, 122–148. https://doi.org/10.1111/mafi.12041
+  * Li, M., Mercurio, F., 2015. **Analytic Approximation of Finite‐Maturity Timer Option Prices.** Journal of Futures Markets 35, 245–273. https://doi.org/10.1002/fut.21659
+  * Bernard, C., Cui, Z., 2011. **Pricing timer options.** Journal of Computational Finance 15, 69–104. https://doi.org/10.21314/JCF.2011.228
 * Cliquet Option
 * Parisian Option
 * American/Bermudan Option
@@ -43,12 +46,11 @@
 
 ## Exact Monte-Carlo Simulation
 * Heston Model: Broadie, M., Kaya, Ö., 2006. Exact Simulation of Stochastic Volatility and Other Affine Jump Diffusion Processes. Operations Research 54, 217–231. https://doi.org/10.1287/opre.1050.0247
-
 * 3/2 Model: Baldeaux, J., 2012. Exact simulation of the 3/2 model. Int. J. Theor. Appl. Finan. 15, 1250032. https://doi.org/10.1142/S021902491250032X 
 * SABR Model: Cai, N., Song, Y., Chen, N., 2017. Exact Simulation of the SABR Model. Operations Research 65, 931–951. https://doi.org/10.1287/opre.2017.1617 | Choi, J., Liu, C., Seo, B.K., 2019. **Hyperbolic normal stochastic volatility model.** Journal of Futures Markets 39, 186–204. https://doi.org/10.1002/fut.21967
 * OU Stochastic Volatility Model: Li, C., Wu, L., 2019. **Exact simulation of the Ornstein–Uhlenbeck driven stochastic volatility model.** European Journal of Operational Research 275, 768–779. https://doi.org/10.1016/j.ejor.2018.11.057
 
-## Mix and Match to add new component
+## Mix and Match for new contribution
 * Model + Product
 * Model + Method
 * Product + China Market Data
