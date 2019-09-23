@@ -104,10 +104,22 @@
 * VIX index in Cyprocurrency: Alexander, C., Imeraj, A., 2019. The Crypto Investor Fear Gauge and the Bitcoin Variance Risk Premium (SSRN Scholarly Paper No. ID 3383734). Social Science Research Network, Rochester, NY.
 
 ## Financial Machine Learning:
+* Currently focus is in asset pricing (return prediction)
+* You may often need massive data + computation power
+* Often there are room for simple but good idea. Replace linear regression with other ML methods?
+* Software tool is readily avilable (sklearn, tensorflow, etc)
+* Extra new information with Natural Language Processing (NLP). 
+
+### Example papers (asset pricing)
+* Moritz, B., Zimmermann, T., 2016. **Tree-Based Conditional Portfolio Sorts: The Relation between Past and Future Stock Returns.** SSRN Journal. https://doi.org/10.2139/ssrn.2740751
+* Gu, S., Kelly, B.T., Xiu, D., 2018. **Empirical Asset Pricing Via Machine Learning.** SSRN Journal. https://doi.org/10.2139/ssrn.3159577
+* Giglio, S., Liao, Y., Xiu, D., 2018. **Thousands of Alpha Tests.** SSRN Journal. https://doi.org/10.2139/ssrn.3259268
+* Chen, L., Pelger, M., Zhu, J., 2019. **Deep Learning in Asset Pricing.** SSRN Journal. https://doi.org/10.2139/ssrn.3350138
+* Woo, J., Liu, C., Choi, J., 2018. **Leave-One-Out Least Square Monte Carlo Algorithm for Pricing American Options.** arXiv:1810.02071 [q-fin, stat]. 
+* Li, K., Mai, F., Shen, R., Yan, X., 2019. **Measuring Corporate Culture Using Machine Learning.** SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3256608
 
 ### Books and Jorunals
   * __Advances in Financial Machine Learning__: [Link](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086) | [Github](https://github.com/ssunger/Advances-in-Financial-Machine-Learning)
   * __Digital Finance__: [Link](https://www.springer.com/finance/journal/42521)
   * __Journal of Financial Data Science__: [Link](https://jfds.pm-research.com/)
- 
  
