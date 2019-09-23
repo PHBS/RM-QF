@@ -21,14 +21,17 @@
 * Constant-Elasticity-Of-Variance (CEV) Model: [Wiki](https://en.wikipedia.org/wiki/Constant_elasticity_of_variance_model)
   * Analytic Option Pricing: Schroder, M., 1989. Computing the constant elasticity of variance option pricing formula. Journal of Finance 44, 211–219. https://doi.org/10.1111/j.1540-6261.1989.tb02414.x
   * Various Approximation: Larguinho, M., Dias, J.C., Braumann, C.A., 2013. On the computation of option prices and Greeks under the CEV model. Quantitative Finance 13, 907–917. https://doi.org/10.1080/14697688.2013.765958
-
 * Stochastic Volatility Models:
   * Heston Model
   * SABR Model:
   * 3/2 Model:
   * 4/2 Model:
   * OU Stochastic Process:
-  
+* Rough Volatility (Fractional Brownina Motion, [Wiki](https://en.wikipedia.org/wiki/Fractional_Brownian_motion))
+  * **Gatheral, J.**, Jaisson, T., Rosenbaum, M., 2018. **Volatility is rough.** Quantitative Finance 18, 933–949. https://doi.org/10.1080/14697688.2017.1393551
+  * Bayer, C., Friz, P., **Gatheral, J.**, 2016. **Pricing under rough volatility.** Quantitative Finance 16, 887–904. https://doi.org/10.1080/14697688.2015.1099717
+
+
 ## Derivative Products (Payout)
 * Barrier Option (Knock-in, Knock-out), Rainbow Option, Spread/Basket/Asian Option, Lookback Option, Compound Option
 * Timer Option
