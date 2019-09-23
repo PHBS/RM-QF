@@ -90,9 +90,13 @@
 
 ## Trading Strategy
 * Alpha strategy
+  * Kakushadze, Z., Serur, J.A., 2018. 151 Trading Strategies. SSRN Electronic Journal. https://papers.ssrn.com/abstract=3247865
+* Can machine learning predict outperforming strategy given economic situation?
+* Consider uncommon asset clas (e.g., not equity): commodity, interest rates, fx, etc.
 
 ## Caution
-* Just showing good performance of strategy is NOT enough. Need add academic components.
+* Just showing good performance of strategy is NOT enough. 
+* Either need add academic connection or show effort.
 
 # FinTech Topics
 
@@ -104,7 +108,7 @@
 * VIX index in Cyprocurrency: Alexander, C., Imeraj, A., 2019. The Crypto Investor Fear Gauge and the Bitcoin Variance Risk Premium (SSRN Scholarly Paper No. ID 3383734). Social Science Research Network, Rochester, NY.
 
 ## Financial Machine Learning:
-* Currently focus is in asset pricing (return prediction)
+* Current focus is in asset pricing (return prediction)
 * You may often need massive data + computation power
 * Often there are room for simple but good idea. Replace linear regression with other ML methods?
 * Software tool is readily avilable (sklearn, tensorflow, etc)
