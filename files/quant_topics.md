@@ -69,6 +69,14 @@
   * Quantopian (The Place For Learning Quant Finance): [Link](https://www.quantopian.com/)
   * Github.com
 
+## Caultion
+  * Stochastic Process
+    * What is the characteritics of stochastic processes? 
+    * Why are they popular? What are the strength/weakness?
+  * Derivatives
+    * What is the economic background of the derivative products?
+    * Why certain products are popular?
+
 # Buy Side Research
 * Less established as an academic research.
 
@@ -80,7 +88,6 @@
 
 ## Caution
 * Just showing good performance of strategy is NOT enough. Need add academic components.
-
 
 # FinTech Topics
 
