@@ -45,19 +45,30 @@
 * SABR Model: Cai, N., Song, Y., Chen, N., 2017. Exact Simulation of the SABR Model. Operations Research 65, 931–951. https://doi.org/10.1287/opre.2017.1617 | Choi, J., Liu, C., Seo, B.K., 2019. Hyperbolic normal stochastic volatility model. Journal of Futures Markets 39, 186–204. https://doi.org/10.1002/fut.21967
 * OU Stochastic Volatility Model: Li, C., Wu, L., 2019. Exact simulation of the Ornstein–Uhlenbeck driven stochastic volatility model. European Journal of Operational Research 275, 768–779. https://doi.org/10.1016/j.ejor.2018.11.057
 
-  
-
 
 ## Combination (Mix and Match)
-* New Model + New Product
-* New Method + New Product
+* Model + Product
+* Model + Method
 * 
+
+## Tips
+* Pay attention to practitioner journals:
+  * __Risk Magazine__: [Link](https://www.risk.net/risk-magazine)
+  * __Journal of Computational Finance__: [Link](https://www.risk.net/journal-of-computational-finance)
+  * __Wilmott Magazine__: [Link](https://wilmott.com/category/magazine/)
+  * __Journal of Derivatives__: [Link](https://jod.pm-research.com/)
+  * __Journal of Portfolio Management__: [Link](https://jpm.pm-research.com)
+  * __Financial Analysts Journal__: [Link](https://www.cfainstitute.org/en/research/financial-analysts-journal)
+* Use online resources (Q&A, forum, code, etc):
+  * Quantitative Finance Stack Exchange: [Link](https://quant.stackexchange.com)
+  * Wilmott Forum: [Link](https://forum.wilmott.com/). Technical Forum, Trading Forum, Numerical Methods Forum.
+  * Quantopian (The Place For Learning Quant Finance): [Link](https://www.quantopian.com/)
+  * Github.com
 
 # Buy Side Research
 
 ## Profolio Selection/Optimization
-* Min variance
-* Equal parity
+* Min variance, Risk Parity ([Wiki](https://en.wikipedia.org/wiki/Risk_parity); Equal Risk Contribution)
 
 ## Trading Strategy
 * Alpha strategy
@@ -77,4 +88,6 @@
   * __Advances in Financial Machine Learning__: [Link](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086) | [Github](https://github.com/ssunger/Advances-in-Financial-Machine-Learning)
   * __Digital Finance__: [Link](https://www.springer.com/finance/journal/42521)
   * __Journal of Financial Data Science__: [Link](https://jfds.pm-research.com/)
+ 
+ 
  
