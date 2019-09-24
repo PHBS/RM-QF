@@ -93,10 +93,14 @@
 * Less established as an academic research.
 
 ## Profolio Selection/Optimization
-* Min variance, Risk Parity ([Wiki](https://en.wikipedia.org/wiki/Risk_parity); Equal Risk Contribution)
+* Minimun variance portfolio 
+* Risk parity portfolio ([Wiki](https://en.wikipedia.org/wiki/Risk_parity); Equal Risk Contribution)
+  * Maillard, S., Roncalli, T., Teïletche, J., 2010. The Properties of Equally Weighted Risk Contribution Portfolios. The Journal of Portfolio Management 36, 60–70. https://doi.org/10.3905/jpm.2010.36.4.060
+  * Chaves, D., Hsu, J., Li, F., Shakernia, O., 2012. Efficient Algorithms for Computing RiskParity Portfolio Weights. The Journal of Investing 21, 150–163. https://doi.org/10.3905/joi.2012.21.3.150
+  * Prado, M.L. de, 2016. Building Diversified Portfolios that Outperform Out of Sample. The Journal of Portfolio Management 42, 59–69. https://doi.org/10.3905/jpm.2016.42.4.059
 
 ## Trading Strategy
-* Alpha strategy
+* `Alpha` signal:
   * Kakushadze, Z., Serur, J.A., 2018. **151 Trading Strategies.** SSRN Electronic Journal. https://papers.ssrn.com/abstract=3247865
 * Can machine learning predict outperforming strategy given economic situation?
 * Consider uncommon asset clas (e.g., not equity): commodity, interest rates, fx, etc.
