@@ -57,6 +57,7 @@
 * Spread/Basket/Asian Option
   * Krekel, M., de Kock, J., Korn, R., Man, T.-K., 2004. **An analysis of pricing methods for basket options.** Wilmott Magazine 2004, 82–89. 
   * Choi, J., 2018. **Sum of all Black-Scholes-Merton models: An efficient pricing method for spread, basket, and Asian options.** Journal of Futures Markets 38, 627–644. https://doi.org/10.1002/fut.21909
+  * Fu, L., 2019. **Pricing Basket Options with Equivalent Bachelier Model** (MA thesis). **Peking University HSBC Business School**, Shenzhen, China.
 * Timer Option 
   * Li, C., 2016. **Bessel Processes, Stochastic Volatility, and Timer Options.** Mathematical Finance 26, 122–148. https://doi.org/10.1111/mafi.12041
   * Li, M., Mercurio, F., 2015. **Analytic Approximation of Finite‐Maturity Timer Option Prices.** Journal of Futures Markets 35, 245–273. https://doi.org/10.1002/fut.21659
@@ -136,6 +137,6 @@
 * Gu, S., Kelly, B.T., Xiu, D., 2018. **Empirical Asset Pricing Via Machine Learning.** SSRN Journal. https://doi.org/10.2139/ssrn.3159577
 * Giglio, S., Liao, Y., Xiu, D., 2018. **Thousands of Alpha Tests.** SSRN Journal. https://doi.org/10.2139/ssrn.3259268
 * Chen, L., Pelger, M., Zhu, J., 2019. **Deep Learning in Asset Pricing.** SSRN Journal. https://doi.org/10.2139/ssrn.3350138
-* Woo, J., Liu, C., Choi, J., 2018. **Leave-One-Out Least Square Monte Carlo Algorithm for Pricing American Options.** arXiv:1810.02071 [q-fin, stat]. 
+* Woo, J., Liu, C., Choi, J., 2018. **Leave-One-Out Least Square Monte Carlo Algorithm for Pricing American Options.** arXiv:1810.02071 [q-fin, stat]. (**PHBS MA thesis**)
 * Li, K., Mai, F., Shen, R., Yan, X., 2019. **Measuring Corporate Culture Using Machine Learning.** SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3256608
 * Lopez de Prado, M., 2019. **Ten Applications of Financial Machine Learning. SSRN Electronic Journal.** https://ssrn.com/abstract=3365271
