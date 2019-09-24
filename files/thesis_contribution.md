@@ -25,7 +25,6 @@
   * But you need to justify why your topic is meaningful? `Research question` again!
      * Why testing against China data is meaningful? Any element in China data to strengthen/weaken the original paper? 
      * The same approach has been tried before?
-     * 
 
 ### 3. Horse racing / survey paper
   * Extensive summary of existing methods
@@ -40,7 +39,6 @@
   * **Component Share**: Gonzalo, J., Granger, C., 1995. **Estimation of Common Long-Memory Components in Cointegrated Systems.** [Journal of Business & Economic Statistics 13, 27–35.](https://doi.org/10.1080/07350015.1995.10524576)
 * There is a paper systematically comparing the two is as famous as the two original ones: 
   * Baillie, R.T., Geoffrey Booth, G., Tse, Y., Zabotina, T., 2002. **Price discovery and common factor models.** [Journal of Financial Markets 5, 309–321](https://doi.org/10.1016/S1386-4181(02)00027-7).
-
 
 ### Example 2:
 * [SABR volatility model](https://en.wikipedia.org/wiki/SABR_volatility_model) is one of the most popular stochastic volatility model to explain volatility smile.
@@ -62,3 +60,12 @@
   * Any topic you want to thoroughly understand (i.e. survey)?
   * Can you improve any course project you did?
 * Be creative and critical in choosing topic. Keep asking questions!
+
+* Regardless of the "contents" of the thsis, you have to try your best to see your paper (make it look good).
+  * Argue the reseasrch question is important. (Even if it is not so important.)
+  * Argue your approach is meaningful. (Even if it is not so meaningful.)
+  * Argue you made a contribution. (Even if there's not much contribution.)
+  * In order to make better arguments above, you have to think/read/study very hard. 
+  * It will be a great learning process you take away with graduation and a great skill set for your career.
+
+## Good luck!
