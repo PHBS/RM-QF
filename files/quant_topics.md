@@ -22,13 +22,16 @@
   * Meucci, A., 2011. **“P” Versus “Q”: Differences and Commonalities between the Two Areas of Quantitative Finance.** SSRN Electronic Journal. https://papers.ssrn.com/abstract=1717163
 
 ## Goals of Research
-* How to model 
+* How to model financial time series / stochastic process?
+  * New process to better fit real data?
+  * Mathematically tractable model?
 * Fast and accurate numerical method
-  * Fast simulation
-  * Pricing various derivative products
+  * Efficient pricing of various derivative products
+  * Fast simulation for Monte-Carlo method (Variance reduction?)
   * Calibration of model parameters to market prices
 * How to price new derivative product?
-  * New model to correctly capture the price from market
+  * Method (analytic or MC) available?
+* New model to correctly capture the price from market or real time series?
 
 ## Stochastic Processes
 * Geometric Browniam Motion: Black-Scholes model
