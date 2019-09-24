@@ -14,6 +14,7 @@
   * Quantitative Finance Stack Exchange: [Link](https://quant.stackexchange.com)
   * Wilmott Forum: [Link](https://forum.wilmott.com/). Technical Forum, Trading Forum, Numerical Methods Forum.
   * Quantopian (The Place For Learning Quant Finance): [Link](https://www.quantopian.com/)
+  * Wikipedia / Baidu / Google
   * Github.com
   
 # Sell Side Research
