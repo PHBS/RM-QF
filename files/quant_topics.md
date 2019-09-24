@@ -52,6 +52,7 @@
 * Rough Volatility (Fractional Brownina Motion, [Wiki](https://en.wikipedia.org/wiki/Fractional_Brownian_motion))
   * **Gatheral, J.**, Jaisson, T., Rosenbaum, M., 2018. **Volatility is rough.** Quantitative Finance 18, 933–949. https://doi.org/10.1080/14697688.2017.1393551
   * Bayer, C., Friz, P., **Gatheral, J.**, 2016. **Pricing under rough volatility.** Quantitative Finance 16, 887–904. https://doi.org/10.1080/14697688.2015.1099717
+  * Glasserman, P., He, P., 2018. Buy Rough, Sell Smooth. SSRN Journal. https://doi.org/10.2139/ssrn.3301669  (Connected to trading strategy)
 
 ## Derivative Products (Payout)
 * Spread/Basket/Asian Option
@@ -77,10 +78,11 @@
 * SABR Model: Cai, N., Song, Y., Chen, N., 2017. **Exact Simulation of the SABR Model.** Operations Research 65, 931–951. https://doi.org/10.1287/opre.2017.1617 | Choi, J., Liu, C., Seo, B.K., 2019. **Hyperbolic normal stochastic volatility model.** Journal of Futures Markets 39, 186–204. https://doi.org/10.1002/fut.21967
 * OU Stochastic Volatility Model: Li, C., Wu, L., 2019. **Exact simulation of the Ornstein–Uhlenbeck driven stochastic volatility model.** European Journal of Operational Research 275, 768–779. https://doi.org/10.1016/j.ejor.2018.11.057
 
-## Mix and Match for new contribution
+## Mix and Match for new contribution (The combinations are unlimited !)
 * Model + Product
 * Model + Method
-* Product + China Market Data
+* Model + Trading Strategy
+* XXX + China Market Data
 
 ## Caultion
   * Stochastic Process
@@ -95,7 +97,8 @@
 
 ## Profolio Selection/Optimization
 * Minimun variance portfolio 
-* Risk parity portfolio ([Wiki](https://en.wikipedia.org/wiki/Risk_parity); Equal Risk Contribution)
+* Smart Beta (factor investing)
+* Risk parity portfolio ([Wiki](https://en.wikipedia.org/wiki/Risk_parity); Equal Risk Contribution): very popular in asset management industsry.
   * Maillard, S., Roncalli, T., Teïletche, J., 2010. The Properties of Equally Weighted Risk Contribution Portfolios. The Journal of Portfolio Management 36, 60–70. https://doi.org/10.3905/jpm.2010.36.4.060
   * Chaves, D., Hsu, J., Li, F., Shakernia, O., 2012. Efficient Algorithms for Computing RiskParity Portfolio Weights. The Journal of Investing 21, 150–163. https://doi.org/10.3905/joi.2012.21.3.150
   * Prado, M.L. de, 2016. Building Diversified Portfolios that Outperform Out of Sample. The Journal of Portfolio Management 42, 59–69. https://doi.org/10.3905/jpm.2016.42.4.059
