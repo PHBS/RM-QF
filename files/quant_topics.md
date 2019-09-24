@@ -84,7 +84,7 @@
 * Model + Trading Strategy
 * XXX + China Market Data
 
-## Caultion
+## Caution
   * Stochastic Process
     * What is the characteritics of stochastic processes? 
     * Why are they popular? What are the strength/weakness?
