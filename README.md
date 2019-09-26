@@ -27,7 +27,7 @@ __Exam__ | 11.12 Tue | Final Exam (English for thesis writing)
 
 ## Teaching Assistance: "Aaron" Gan WU (吴淦)
 * Email: 1701212974@sz.pku.edu.cn
-* TA Office Hour: TBA (Room 213/214)
+* TA Office Hour: 8:30 - 10:20 AM, Thursday (Room 213/214)
 
 ## Course overview: 
 The general purpose of the Research Methodology course to prepare students for conducting research and writing thesis. This particular session (F1) is customized for the students who are going to write thesis on a quantitative topics such as mathematical finance, financial engineering, and fintech. Throughout this course, students will first learn what are good research topics by examples. Then, students will be required to their own thesis topics and present in class. It is strongly encouraged that the students pick a **real** topic that they will work for thesis. The course will also equip students with several practical tools such as reference management software and English for thesis writing. 
