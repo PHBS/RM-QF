@@ -2,7 +2,7 @@
 
 ## Presentation Schedule
 Student Number | Chinese Name | English Name
----|----|----
+:---:|:---:|:---:
 **Week 6: 10.15** | ======= | ===============
 1801212901 | 马伟恩 | Weien Ma
 1801212884 | 廖家瑞 | Liao Jiarui - Gary
