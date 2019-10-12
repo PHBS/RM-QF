@@ -13,7 +13,7 @@ Student Number | Chinese Name | English Name
 1801212932 | 王柄荃 | Wang Bingquan
 1801212897 | 陆金磊 | Lu Jinlei - Lucas
 **Week 8: 10.22** | ======= | ===============
-1801212935 | 王嘉佳 | Wang Jiajia - Karlie
+1801212818 | 周健 | Zhou Jian - Jian [**Switch**]
 1801212887 | 刘安蕾 | Liu Anlei - Annora
 1801212996 | 周雨田 | Zhou Yutian - Joy
 1801212981 | 张一鸣 | Zhang Yiming - Emmett
@@ -26,7 +26,7 @@ Student Number | Chinese Name | English Name
 1801212884 | 廖家瑞 | Liao Jiarui - Gary [**Reshedule**]
 1801212825 | 曹阳 | Cao Yang - Robin
 1801212965 | 于曦航 | Yu Xihang
-1801212818 | 周健 | Zhou Jian - Jian
+1801212935 | 王嘉佳 | Wang Jiajia - Karlie [**Switch**]
 1801212821 | 曹艾瑜 | Cao Aiyu - Fisher
 1801212888 | 刘安屹 | Liu Anyi - Keira
 1801212920 | 史云霞 | Shi Yunxia - Genie
