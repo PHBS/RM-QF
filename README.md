@@ -9,10 +9,10 @@ __03__ | 9.17 Tue | Lecture (**Peng**): [Asset Pricing with Spatial Interaction]
 __04__ | 9.24 Tue | Lecture (**Choi**) [Presenation Order](files/presentation.md), [Quant Finance Topics](files/quant_topics.md)
  x | x | __No Class: National Day Week__
 __05__ | 10.08 Tue | Lecture (**Peng**)
-__06__ | 10.15 Tue | Proposal Presentation (**Peng**)
-__07__ | 10.22 Tue | Proposal Presentation (**Choi**)
-__08__ | 10.29 Tue | Proposal Presentation (**Peng**)
-__09__ | 11.05 Tue | Proposal Presentation (**Choi**)
+__06__ | 10.15 Tue | Proposal Presentation (**Choi and Peng**)
+__07__ | 10.22 Tue | Proposal Presentation (**Choi and Peng**)
+__08__ | 10.29 Tue | Proposal Presentation (**Choi and Peng**)
+__09__ | 11.05 Tue | Proposal Presentation (**Choi and Peng**)
 __Exam__ | 11.12 Tue | Final Exam (English for thesis writing)
 
 ## Classes: 
