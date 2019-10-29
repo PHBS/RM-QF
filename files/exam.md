@@ -1,8 +1,9 @@
 # Final Exam (English for thesis writing)
 
 * Exam questions will be from the examples (and slight variations of examples) in __the Elements of Style__. 
+* Exam will be in 1 hr. It is closed-book. Answer sheets wil be provided. Do not put anything on desk except pencil.
 * The scope is **Chapters I ~ IV** (Chapter V not included)
-* There will be about 30~40 problems. Exam will be in 1 hr.
+* There will be about 30~40 problems. 
 * There will be two two type of quesions:
 * __Type 1__: If two choices (a and b) are given, select preferred usage. 
   * Example: (a) I used the facilities. (b) I used the toilets. __Answer: (b)__
