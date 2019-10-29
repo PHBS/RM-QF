@@ -13,7 +13,7 @@ __06__ | 10.15 Tue | Proposal Presentation (**Choi and Peng**)
 __07__ | 10.22 Tue | Proposal Presentation (**Choi and Peng**)
 __08__ | 10.29 Tue | Proposal Presentation (**Choi and Peng**)
 __09__ | 11.05 Tue | Proposal Presentation (**Choi and Peng**)
-__Exam__ | 11.12 Tue | Final Exam (English for thesis writing)
+__Exam__ | 11.12 Tue | [Final Exam (English for thesis writing)](files/exam.md)
 
 ## Classes: 
 * Lectures: Tues 3:30 – 5:20 PM
@@ -38,6 +38,7 @@ The general purpose of the Research Methodology course to prepare students for c
 * Present the preposal in class (4 weeks): about 10 minutes including quick discussion/comments.
 
 ## Final Exam: English for writing
+* [Read about the exam](files/exam.md).
 * _The Elements of Style, Fourth Edition_ by Struck and White: [Amazon](https://www.amazon.com/Elements-Style-Fourth-William-Strunk-ebook/dp/B07NPN5HTP/ref=dp_kinw_strp_1)
 * English for Writing Research Papers: Useful Pharase: [Download](https://www.springer.com/cda/content/document/cda_downloaddocument/Free+Download+-+Useful+Phrases.pdf?SGWID=0-0-45-1543172-p177775190)
 
