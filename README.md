@@ -1,5 +1,7 @@
 # Research Methodology for Quant Finance and FinTech, 2019-20 Module 1 (Fall 2019)
 
+* Submission of the proposal (Introduction and literature review) is due on **11.18 (Monday) 11:59 AM**.
+
 ## Lectures
 No | Date | Contents
 --- | :---: | ---
@@ -14,6 +16,8 @@ __07__ | 10.22 Tue | Proposal Presentation (**Choi and Peng**)
 __08__ | 10.29 Tue | Proposal Presentation (**Choi and Peng**)
 __09__ | 11.05 Tue | Proposal Presentation (**Choi and Peng**)
 __Exam__ | 11.12 Tue | Rm 313. 3:30-4:30 PM [Final Exam (English for thesis writing)](files/exam.md)
+__Report__ | 11.18 Mon | By 11:59 AM
+
 
 ## Classes: 
 * Lectures: Tues 3:30 – 5:20 PM
