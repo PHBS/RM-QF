@@ -1,5 +1,6 @@
 # Final Exam (English for thesis writing)
 
+* Rm 313. 11.12(Tues) 3:30 - 4:30 PM
 * Exam questions will be from the examples (and slight variations of examples) in __the Elements of Style__. 
 * Exam will be in 1 hr. It is closed-book. Answer sheets wil be provided. Do not put anything on desk except pencil.
 * The scope is **Chapters I ~ IV** (Chapter V not included)
