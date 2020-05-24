@@ -14,7 +14,7 @@
 ## Presentation
 * Interesting introduction
 * Effectively use underline, boldface font, color
-* Extra slides after "Thank you" slide
+* Extra slides after "Thank you" slide: E.g. robustness check. Gives an impression of your effort.
 * "Contribution slide"  (perhaps repeat in conclusion slide)
 * Come to research seminar and watch how they are organized
 
