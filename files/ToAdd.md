@@ -11,4 +11,9 @@
 ## Structure 
 * Not just list the noun. Add ajective, verb.
 
+## Presentation
+* Interesting introduction
+* Effectively use underline, boldface font, color
+* Extra slides after "Thank you" slide
+
 
