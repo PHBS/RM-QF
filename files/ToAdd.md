@@ -15,5 +15,7 @@
 * Interesting introduction
 * Effectively use underline, boldface font, color
 * Extra slides after "Thank you" slide
+* "Contribution slide"  (perhaps repeat in conclusion slide)
+* Come to research seminar and watch how they are organized
 
 
