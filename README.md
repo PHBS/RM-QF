@@ -3,10 +3,10 @@
 ## Lectures
 No | Date | Contents
 --- | :---: | ---
-__01__ | 9.08 Tue | Lecture (**Choi**): Overview, [Thesis trend](files/thesis_trend.md), and [Zotero](files/zotero.md), (**Peng**): Introduction available in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf).
-__02__ | 9.15 Tue | Lecture (**Choi**): [Zotero](files/zotero.md) with MS Word, [Structure](files/thesis_structure.md), [Topic and Contribution](files/thesis_contribution.md), [Bitcoin Literature Review](files/bitcoin_finance_review.md)
-__03__ | 9.22 Tue | Lecture (**Peng**): [Asset Pricing with Spatial Interaction](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2627), [A Jump-Diffusion Model for Option Pricing](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.48.8.1086.166). Papers and slides avilable in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf).
-__04__ | 9.29 Tue | Lecture (**Choi**) [Presenation Order](files/presentation.md), [Quant Finance Topics](files/quant_topics.md)
+__01__ | 9.08 Tue | Lecture<br> **Choi**: Course Overview, [Thesis trend](files/thesis_trend.md), and [Zotero](files/zotero.md) <br> **Peng**: Course Introduction (slides available in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
+__02__ | 9.15 Tue | Lecture **Choi**: [Zotero](files/zotero.md) with MS Word, [Structure](files/thesis_structure.md), [Topic and Contribution](files/thesis_contribution.md), Citation in Thesis, Etc
+__03__ | 9.22 Tue | Lecture **Peng**: [Asset Pricing with Spatial Interaction](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2627), [A Jump-Diffusion Model for Option Pricing](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.48.8.1086.166). Papers and slides avilable in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf).
+__04__ | 9.29 Tue | Lecture **Choi**: [Quant Finance Topics](files/quant_topics.md), [Bitcoin Literature Review](files/bitcoin_finance_review.md), [Presenation Order](files/presentation.md)
  x | x | __No Class: National Day Week__
 __05__ | 10.13 Tue | Lecture (**Peng**)
 __06__ | 10.20 Tue | Proposal Presentation (**Choi and Peng**)
@@ -18,8 +18,8 @@ __Report__ | 11.22 Sun | Due by 11:59 AM
 
 
 ## Classes: 
-* Lectures: Tues 3:30 – 5:20 PM
-* Venue: PHBS Building, Room XXX
+* Lectures: Tuesday 3:30 – 5:20 PM
+* Venue: PHBS Building, Room 417
 
 ## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en) / [Xianhua Peng](https://english.phbs.pku.edu.cn/content-627-104-1.html)
 * Office: PHBS Building, Room 755 / 756
