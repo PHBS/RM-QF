@@ -8,12 +8,12 @@ __02__ | 9.15 Tue | Lecture by **Choi**: [Zotero](files/zotero.md) with MS Word,
 __03__ | 9.22 Tue | Lecture by **Peng**: [Asset Pricing with Spatial Interaction](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2627), [A Jump-Diffusion Model for Option Pricing](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.48.8.1086.166). (Papers and slides avilable in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
 __04__ | 9.29 Tue | Lecture by **Choi**: [Quant Finance Topics](files/quant_topics.md), [Bitcoin Literature Review](files/bitcoin_finance_review.md), [Presenation Order](files/presentation.md)
  x | x | __No Class: National Day Week__
-__05__ | 10.13 Tue | Lecture (**Peng**)
-__06__ | 10.20 Tue | Proposal Presentation (**Choi and Peng**)
-__07__ | 10.27 Tue | Proposal Presentation (**Choi and Peng**)
-__08__ | 11.03 Tue | Proposal Presentation (**Choi and Peng**)
-__09__ | 11.10 Tue | Proposal Presentation (**Choi and Peng**)
-__Exam__ | 11.15 Tue (or 16) | TBA [Final Exam (English for thesis writing)](files/exam.md)
+__05__ | 10.13 Tue | Lecture by **Peng**
+__06__ | 10.20 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
+__07__ | 10.27 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
+__08__ | 11.03 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
+__09__ | 11.10 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
+__Exam__ | 11.15 Tue | TBA [Final Exam (English for thesis writing)](files/exam.md)
 __Report__ | 11.22 Sun | Due by 11:59 AM
 
 
