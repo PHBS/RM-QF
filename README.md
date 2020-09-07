@@ -13,7 +13,7 @@ __06__ | 10.20 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
 __07__ | 10.27 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
 __08__ | 11.03 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
 __09__ | 11.10 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
-__Exam__ | 11.15 Tue | TBA [Final Exam (English for thesis writing)](files/exam.md)
+__Exam__ | 11.15 Tue | __3:30 - 4:30 PM__ [Final Exam (English for thesis writing)](files/exam.md)
 __Report__ | 11.22 Sun | Due by 11:59 AM
 
 
@@ -41,7 +41,7 @@ The general purpose of the Research Methodology course to prepare students for c
 
 ## Final Exam: English for writing
 * [Read about the exam](files/exam.md). 
-* Rm 313. 11.15. (Tues) 3:30 - 4:30 PM (To be changed)
+* Rm 417. 11.15. (Tues) 3:30 - 4:30 PM
 * _The Elements of Style, Fourth Edition_ by Struck and White: [Amazon](https://www.amazon.com/Elements-Style-Fourth-William-Strunk-ebook/dp/B07NPN5HTP/ref=dp_kinw_strp_1)
 * English for Writing Research Papers: Useful Pharase: [Download](https://www.springer.com/cda/content/document/cda_downloaddocument/Free+Download+-+Useful+Phrases.pdf?SGWID=0-0-45-1543172-p177775190)
 
