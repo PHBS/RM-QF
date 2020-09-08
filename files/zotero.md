@@ -11,7 +11,7 @@
 * Install Zotero (Zotero for your OS + Browser Connector): [Download](https://www.zotero.org/download/)
 * Create your account (free) and join the [Group Library: RM-QF](https://www.zotero.org/groups/2363301/phbs-rm-qf)
 
-![Group Join](../images/Group-Join.PNG)
+![Group Join](../images/Group-Join.JPG)
 
 * Make sure to put your full name under profile
 
