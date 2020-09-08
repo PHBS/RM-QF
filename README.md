@@ -14,7 +14,7 @@ __07__ | 10.27 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
 __08__ | 11.03 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
 __09__ | 11.10 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
 __Exam__ | 11.15 Tue | __3:30 - 4:30 PM__ [Final Exam (English for thesis writing)](files/exam.md)
-__Report__ | 11.22 Sun | Due by 11:59 AM
+__Proposal Report__ | 11.22 Sun | Due by 11:59 AM
 
 
 ## Classes: 
@@ -34,16 +34,30 @@ __Report__ | 11.22 Sun | Due by 11:59 AM
 ## Course overview: 
 The general purpose of the Research Methodology course to prepare students for conducting research and writing thesis. This particular session (F1) is customized for the students who are going to write thesis on a quantitative topics such as mathematical finance, financial engineering, and fintech. Throughout this course, students will first learn what are good research topics by examples. Then, students will be required to their own thesis topics and present in class. It is strongly encouraged that the students pick a **real** topic that they will work for thesis. The course will also equip students with several practical tools such as reference management software and English for thesis writing. 
 
-## Proposal Presentation: (4 weeks)
-* Each student should propose a thesis idea that can be developed to thesis. 
-* Write a proposal consist of literature review and new element. The proposal write-up should be in such a level to be used as the introduction section of the thesis.
-* Present the preposal in class (4 weeks): about 10 minutes including quick discussion/comments.
+## Proposal Presentation and Report
+* Each student should write a proposal for the topic that can be developed into a real thesis. 
+* Write a proposal consist of literature review and (expected) new element/contribution. 
+  * The report does not have to contain concrete results.
+  * __The literature review should cover at least 5 papers in detail, summarizing the models, methodologies, and data set used in each paper.__
+  * The proposal write-up should be in such a level to be used as the introduction section of the thesis.
+* Present the proposal in class (4 lectures): about 10 minutes including quick discussion/comments from the professors.
 
 ## Final Exam: English for writing
-* [Read about the exam](files/exam.md). 
-* Rm 417. 11.15. (Tues) 3:30 - 4:30 PM
-* _The Elements of Style, Fourth Edition_ by Struck and White: [Amazon](https://www.amazon.com/Elements-Style-Fourth-William-Strunk-ebook/dp/B07NPN5HTP/ref=dp_kinw_strp_1)
-* English for Writing Research Papers: Useful Pharase: [Download](https://www.springer.com/cda/content/document/cda_downloaddocument/Free+Download+-+Useful+Phrases.pdf?SGWID=0-0-45-1543172-p177775190)
+* 11.15. (Tues) 3:30 - 4:30 PM. Rm 417.
+* Exam materials (available in Zotero group). Exact scope will be announced later.
+  * _The Elements of Style, Fourth Edition_ by Struck and White: [Amazon](https://www.amazon.com/Elements-Style-Fourth-William-Strunk-ebook/dp/B07NPN5HTP/ref=dp_kinw_strp_1)
+  * _English for Writing Research Papers: Useful Pharase:_ [Download](https://www.springer.com/cda/content/document/cda_downloaddocument/Free+Download+-+Useful+Phrases.pdf?SGWID=0-0-45-1543172-p177775190)
+  * The material will not be covered in class. Study by yourself.
+  * Exam questions will be from the examples (and slight variations of examples) in the materials (mostly from _the Elements of Style_). 
+* Exam will be in 1 hr. It is closed-book. Answer sheets wil be provided. Do not put anything on desk except pencil.
+* There will be about 30~40 problems. There will be two two type of quesions:
+  * __Type 1__: If two choices (a and b) are given, select preferred usage. 
+    * Example: (a) I used the facilities. (b) I used the toilets. __Answer: (b)__
+  * __Type 2__: If just one sentence is given, give Good or Bad. 
+    * Example: Blake and myself stayed home. __Answer: Bad__
+    * For some questions, the question underline important words related to the answer.
+* Simple answer is enough. You don't need to justify your answer. There will no partial credit.
+
 
 ## Prerequisites: None
 
