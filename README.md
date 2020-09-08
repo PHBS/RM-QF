@@ -40,6 +40,7 @@ The general purpose of the Research Methodology course to prepare students for c
   * The report does not have to contain concrete results.
   * __The literature review should cover at least 5 papers in detail, summarizing the models, methodologies, and data set used in each paper.__
   * The proposal write-up should be in such a level to be used as the introduction section of the thesis.
+  * Consider the availability of data if it is an empirical topic.
 * Present the proposal in class (4 lectures): about 10 minutes including quick discussion/comments from the professors.
 
 ## Final Exam: English for writing
