@@ -13,7 +13,7 @@ __06__ | 10.20 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
 __07__ | 10.27 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
 __08__ | 11.03 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
 __09__ | 11.10 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
-__Exam__ | 11.15 Tue | __3:30 - 4:30 PM__ [Final Exam (English for thesis writing)](files/exam.md)
+__Exam__ | 11.15 Tue | __3:30 - 4:30 PM__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
 __Proposal Report__ | 11.22 Sun | Due by 11:59 AM
 
 
@@ -32,7 +32,7 @@ __Proposal Report__ | 11.22 Sun | Due by 11:59 AM
 * TA Office Hour: TBA (Room 213/214)
 
 ## Course overview: 
-The general purpose of the Research Methodology course to prepare students for conducting research and writing thesis. This particular session (F1) is customized for the students who are going to write thesis on a quantitative topics such as mathematical finance, financial engineering, and fintech. Throughout this course, students will first learn what are good research topics by examples. Then, students will be required to their own thesis topics and present in class. It is strongly encouraged that the students pick a **real** topic that they will work for thesis. The course will also equip students with several practical tools such as reference management software and English for thesis writing. 
+The general purpose of the Research Methodology course to prepare students for conducting research and writing thesis. This particular session (QF) is customized for the students who are going to write a thesis on a quantitative topics such as mathematical finance, financial engineering, and fintech. Throughout this course, students will first learn what are good research topics by examples. Then, students will be required to their own thesis topics and present in class. It is strongly encouraged that the students pick a **real** topic that they will work for thesis. The course will also equip students with several practical tools such as reference management software and English for thesis writing. 
 
 ## Proposal Presentation and Report
 * Each student should write a proposal for the topic that can be developed into a real thesis. 
@@ -45,7 +45,7 @@ The general purpose of the Research Methodology course to prepare students for c
 ## Final Exam: English for writing
 * 11.15. (Tues) 3:30 - 4:30 PM. Rm 417.
 * Exam materials (available in Zotero group). Exact scope will be announced later.
-  * _The Elements of Style, Fourth Edition_ by Struck and White: [Amazon](https://www.amazon.com/Elements-Style-Fourth-William-Strunk-ebook/dp/B07NPN5HTP/ref=dp_kinw_strp_1)
+  * _The Elements of Style, 2011 Edition_ by Struck
   * _English for Writing Research Papers: Useful Pharase:_ [Download](https://www.springer.com/cda/content/document/cda_downloaddocument/Free+Download+-+Useful+Phrases.pdf?SGWID=0-0-45-1543172-p177775190)
   * The material will not be covered in class. Study by yourself.
   * Exam questions will be from the examples (and slight variations of examples) in the materials (mostly from _the Elements of Style_). 
