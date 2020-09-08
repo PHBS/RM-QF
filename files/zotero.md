@@ -9,9 +9,12 @@
 
 ## Installation and Class Group Library
 * Install Zotero (Zotero for your OS + Browser Connector): [Download](https://www.zotero.org/download/)
-* Create your account (free) and join the [Group Library: RM-FQ](https://www.zotero.org/groups/2363301/phbs-rm-qf)
+* Create your account (free) and join the [Group Library: RM-QF](https://www.zotero.org/groups/2363301/phbs-rm-qf)
+
 ![Group Join](../images/Group-Join.PNG)
+
 * Make sure to put your full name under profile
+
 ![Profile Name](../images/Profile-Name.PNG)
 
 ## Zotero plug-in for MS Word
