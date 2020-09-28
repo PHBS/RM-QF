@@ -10,6 +10,8 @@
   * __Journal of Derivatives__: [Link](https://jod.pm-research.com/)
   * __Journal of Portfolio Management__: [Link](https://jpm.pm-research.com)
   * __Financial Analysts Journal__: [Link](https://www.cfainstitute.org/en/research/financial-analysts-journal)
+  * __Journal of Financial Data Science__: [Link](https://jfds.pm-research.com/)
+  * __Digital Finance__: [Link](https://www.springer.com/finance/journal/42521)
 * Use online resources (Q&A, forum, code, etc):
   * Quantitative Finance Stack Exchange: [Link](https://quant.stackexchange.com)
   * Wilmott Forum: [Link](https://forum.wilmott.com/). Technical Forum, Trading Forum, Numerical Methods Forum.
@@ -49,7 +51,7 @@
   * OU Stochastic Process: 
 * Jump diffusion: 
   * Kou, S.G., 2002. A Jump-Diffusion Model for Option Pricing. Management Science 48, 1086–1101. https://doi.org/10.1287/mnsc.48.8.1086.166
-* Rough Volatility (Fractional Brownina Motion, [Wiki](https://en.wikipedia.org/wiki/Fractional_Brownian_motion))
+* Rough Volatility (Fractional Brownian Motion, [Wiki](https://en.wikipedia.org/wiki/Fractional_Brownian_motion))
   * **Gatheral, J.**, Jaisson, T., Rosenbaum, M., 2018. **Volatility is rough.** Quantitative Finance 18, 933–949. https://doi.org/10.1080/14697688.2017.1393551
   * Bayer, C., Friz, P., **Gatheral, J.**, 2016. **Pricing under rough volatility.** Quantitative Finance 16, 887–904. https://doi.org/10.1080/14697688.2015.1099717
   * Glasserman, P., He, P., 2018. Buy Rough, Sell Smooth. SSRN Journal. https://doi.org/10.2139/ssrn.3301669  (Connected to trading strategy)
@@ -86,28 +88,29 @@
 
 ## Caution
   * Stochastic Process
-    * What is the characteritics of stochastic processes? 
+    * What is the characteristics of stochastic processes? 
     * Why are they popular? What are the strength/weakness?
   * Derivatives
     * What is the economic background of the derivative products?
     * Why certain products are popular?
 
 # Buy Side Research
-* Less established as an academic research.
+* Asset management, Portfolio allocation, Trading strategy.
+* Sometimes the outcome is not published as academic research.
 
-## Profolio Selection/Optimization
-* Minimun variance portfolio 
+## Portfolio Selection/Optimization
+* Minimum variance portfolio 
 * Smart Beta (factor investing)
-* Risk parity portfolio ([Wiki](https://en.wikipedia.org/wiki/Risk_parity); Equal Risk Contribution): very popular in asset management industsry.
+* Risk parity portfolio ([Wiki](https://en.wikipedia.org/wiki/Risk_parity); Equal Risk Contribution): very popular in asset management industry.
   * Maillard, S., Roncalli, T., Teïletche, J., 2010. The Properties of Equally Weighted Risk Contribution Portfolios. The Journal of Portfolio Management 36, 60–70. https://doi.org/10.3905/jpm.2010.36.4.060
-  * Chaves, D., Hsu, J., Li, F., Shakernia, O., 2012. Efficient Algorithms for Computing RiskParity Portfolio Weights. The Journal of Investing 21, 150–163. https://doi.org/10.3905/joi.2012.21.3.150
+  * Chaves, D., Hsu, J., Li, F., Shakernia, O., 2012. Efficient Algorithms for Computing Risk Parity Portfolio Weights. The Journal of Investing 21, 150–163. https://doi.org/10.3905/joi.2012.21.3.150
   * Prado, M.L. de, 2016. Building Diversified Portfolios that Outperform Out of Sample. The Journal of Portfolio Management 42, 59–69. https://doi.org/10.3905/jpm.2016.42.4.059
 
 ## Trading Strategy
 * `Alpha` signal:
   * Kakushadze, Z., Serur, J.A., 2018. **151 Trading Strategies.** SSRN Electronic Journal. https://papers.ssrn.com/abstract=3247865
 * Can machine learning predict outperforming strategy given economic situation?
-* Consider uncommon asset clas (e.g., not equity): commodity, interest rates, fx, etc.
+* Consider uncommon asset class (e.g., not equity): commodity, interest rates, FX, etc.
 
 ## Caution
 * Just showing good performance of strategy is NOT enough. 
@@ -124,22 +127,28 @@
 
 ## Financial Machine Learning:
 * Current focus is in asset pricing (return prediction)
-* You may often need massive data + computation power
-* Often there are room for simple but good idea. Replace linear regression with other ML methods?
-* Software tool is readily avilable (sklearn, tensorflow, etc)
+* You may often need massive data + computation power. Check availability before! 
+* Often there are room for simple but good idea. Consider Replacing linear regression with ML methods?
+* Software tool is readily available (sklearn, keras/tensorflow, pytorch, etc)
 * Extra new information with Natural Language Processing (NLP). 
+* ML method may help you future career!
 
-### Books and Jorunals
+### Books and Journals
   * López de Prado, M.M., 2018. **Advances in financial machine learning.** Wiley, New Jersey.: [Link](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086) | [Github](https://github.com/ssunger/Advances-in-Financial-Machine-Learning)
-  * Hull, J.C., 2019. **Machine Learning in Business: An Introduction to the World of Data Science.** 
-  * __Digital Finance__: [Link](https://www.springer.com/finance/journal/42521)
-  * __Journal of Financial Data Science__: [Link](https://jfds.pm-research.com/)
-  
+  * Hull, J.C., 2019. **Machine Learning in Business: An Introduction to the World of Data Science.** [Link](https://www.amazon.com/Machine-Learning-Business-Introduction-Science/dp/1079988254)
+  * Journals: [__Digital Finance__](https://www.springer.com/finance/journal/42521) and [__Journal of Financial Data Science__](https://jfds.pm-research.com/)
+
 ### Papers
+* Gu, S., Kelly, B., & Xiu, D. (2020). **Empirical Asset Pricing via Machine Learning.** The Review of Financial Studies, 33(5), 2223–2273. https://doi.org/10.1093/rfs/hhaa009 [[SSRN](https://doi.org/10.2139/ssrn.3159577)]
 * Moritz, B., Zimmermann, T., 2016. **Tree-Based Conditional Portfolio Sorts: The Relation between Past and Future Stock Returns.** SSRN Journal. https://doi.org/10.2139/ssrn.2740751
-* Gu, S., Kelly, B.T., Xiu, D., 2018. **Empirical Asset Pricing Via Machine Learning.** SSRN Journal. https://doi.org/10.2139/ssrn.3159577
 * Giglio, S., Liao, Y., Xiu, D., 2018. **Thousands of Alpha Tests.** SSRN Journal. https://doi.org/10.2139/ssrn.3259268
 * Chen, L., Pelger, M., Zhu, J., 2019. **Deep Learning in Asset Pricing.** SSRN Journal. https://doi.org/10.2139/ssrn.3350138
-* Woo, J., Liu, C., Choi, J., 2018. **Leave-One-Out Least Square Monte Carlo Algorithm for Pricing American Options.** arXiv:1810.02071 [q-fin, stat]. (**PHBS MA thesis**)
+* Woo, J., Liu, C., Choi, J., 2018. **Leave-One-Out Least Square Monte Carlo Algorithm for Pricing American Options.** arXiv:1810.02071 [q-fin, stat]. (Early version in **PHBS MA thesis**)
 * Li, K., Mai, F., Shen, R., Yan, X., 2019. **Measuring Corporate Culture Using Machine Learning.** SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3256608
 * Lopez de Prado, M., 2019. **Ten Applications of Financial Machine Learning. SSRN Electronic Journal.** https://ssrn.com/abstract=3365271
+
+### MA Thesis Example
+* Long, Shuyi (2019). **Smart Beta Investing: A New Method Based on Machine Learning and Black-Litterman Model** [Mathesis]. Peking University HSBC Business School.
+  * Used the probability outcome of ML as in input of the Black-Litterman (asset management) model 
+* Ge, Desheng (2020). **How can the yield curve predict an economic recession?** [Mathesis]. Peking University HSBC Business School.
+  * The negative US Treasury yield spread (e.g., 10y - 3m) is considered as the best recession indicator. This paper verify that the yield curve spread (long - short) is indeed the best recession indicator. But the pair and coefficients can be slightly different.
