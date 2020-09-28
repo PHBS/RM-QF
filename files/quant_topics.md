@@ -102,9 +102,9 @@
 * Minimum variance portfolio 
 * Smart Beta (factor investing)
 * Risk parity portfolio ([Wiki](https://en.wikipedia.org/wiki/Risk_parity); Equal Risk Contribution): very popular in asset management industry.
-  * Maillard, S., Roncalli, T., Teïletche, J., 2010. The Properties of Equally Weighted Risk Contribution Portfolios. The Journal of Portfolio Management 36, 60–70. https://doi.org/10.3905/jpm.2010.36.4.060
-  * Chaves, D., Hsu, J., Li, F., Shakernia, O., 2012. Efficient Algorithms for Computing Risk Parity Portfolio Weights. The Journal of Investing 21, 150–163. https://doi.org/10.3905/joi.2012.21.3.150
-  * Prado, M.L. de, 2016. Building Diversified Portfolios that Outperform Out of Sample. The Journal of Portfolio Management 42, 59–69. https://doi.org/10.3905/jpm.2016.42.4.059
+  * Maillard, S., Roncalli, T., Teïletche, J., 2010. **The Properties of Equally Weighted Risk Contribution Portfolios.** The Journal of Portfolio Management 36, 60–70. https://doi.org/10.3905/jpm.2010.36.4.060
+  * Chaves, D., Hsu, J., Li, F., Shakernia, O., 2012. **Efficient Algorithms for Computing Risk Parity Portfolio Weights.** The Journal of Investing 21, 150–163. https://doi.org/10.3905/joi.2012.21.3.150
+  * Prado, M.L. de, 2016. **Building Diversified Portfolios that Outperform Out of Sample.** The Journal of Portfolio Management 42, 59–69. https://doi.org/10.3905/jpm.2016.42.4.059
 
 ## Trading Strategy
 * `Alpha` signal:
@@ -122,8 +122,8 @@
 
 ## Crypto + Quant Finance
 * Bitcoin Option Pricing: which process fits bitcoin option markets better?
-  * Madan, D.B., Reyners, S., Schoutens, W., 2019.** Advanced model calibration on bitcoin options.** Digit Finance. https://doi.org/10.1007/s42521-019-00002-1
-* VIX index in Cyprocurrency: Alexander, C., Imeraj, A., 2019. **The Crypto Investor Fear Gauge and the Bitcoin Variance Risk Premium** (SSRN Scholarly Paper No. ID 3383734). Social Science Research Network, Rochester, NY.
+  * Madan, D.B., Reyners, S., Schoutens, W., 2019. **Advanced model calibration on bitcoin options.** Digital Finance. https://doi.org/10.1007/s42521-019-00002-1
+* VIX index in Cyprocurrency: Alexander, C., & Imeraj, A. (2019). **The Crypto Investor Fear Gauge and the Bitcoin Variance Risk Premium.** SSRN Electronic Journal. https://papers.ssrn.com/abstract=3456853
 
 ## Financial Machine Learning:
 * Current focus is in asset pricing (return prediction)
@@ -143,7 +143,7 @@
 * Moritz, B., Zimmermann, T., 2016. **Tree-Based Conditional Portfolio Sorts: The Relation between Past and Future Stock Returns.** SSRN Journal. https://doi.org/10.2139/ssrn.2740751
 * Giglio, S., Liao, Y., Xiu, D., 2018. **Thousands of Alpha Tests.** SSRN Journal. https://doi.org/10.2139/ssrn.3259268
 * Chen, L., Pelger, M., Zhu, J., 2019. **Deep Learning in Asset Pricing.** SSRN Journal. https://doi.org/10.2139/ssrn.3350138
-* Woo, J., Liu, C., Choi, J., 2018. **Leave-One-Out Least Square Monte Carlo Algorithm for Pricing American Options.** arXiv:1810.02071 [q-fin, stat]. (Early version in **PHBS MA thesis**)
+* Woo, J., Liu, C., Choi, J., 2018. **Leave-One-Out Least Square Monte Carlo Algorithm for Pricing American Options.** [arXiv:1810.02071](http://arxiv.org/abs/1810.02071) [q-fin, stat]. (Early version in **PHBS MA thesis**)
 * Li, K., Mai, F., Shen, R., Yan, X., 2019. **Measuring Corporate Culture Using Machine Learning.** SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3256608
 * Lopez de Prado, M., 2019. **Ten Applications of Financial Machine Learning. SSRN Electronic Journal.** https://ssrn.com/abstract=3365271
 
