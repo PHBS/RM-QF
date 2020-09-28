@@ -102,8 +102,12 @@
 * Shen, D., Urquhart, A., Wang, P., 2019. __Does twitter predict Bitcoin?__ [Economics Letters 174, 118–122.](https://doi.org/10.1016/j.econlet.2018.11.007)
   > We find that the number of tweets is a significant driver of next day trading volume and realized volatility ...
 
-## Transaction fee (as block reward goes to zero)
-* Easley, D., [O’Hara, M.](https://en.wikipedia.org/wiki/Maureen_O%27Hara_(financial_economist)), Basu, S., 2019. __From mining to markets: The evolution of bitcoin transaction fees.__ [Journal of Financial Economics. (Forthcoming)](https://doi.org/10.1016/j.jfineco.2019.03.004)
+## Bitcoin papers in top finance journals
+* Transaction fee (as block reward goes to zero)
+  * Easley, D., [O’Hara, M.](https://en.wikipedia.org/wiki/Maureen_O%27Hara_(financial_economist)), M., & Basu, S. (2019). **From mining to markets: The evolution of bitcoin transaction fees.** Journal of Financial Economics, 134(1), 91–109. https://doi.org/10.1016/j.jfineco.2019.03.004
+* Bitcoin Valuation
+  * Schilling, L., & Uhlig, H. (2019). **Some simple bitcoin economics.** Journal of Monetary Economics, 106, 16–26. https://doi.org/10.1016/j.jmoneco.2019.07.002
 
-## Bitcoin Valuation
-* Schilling, L., Uhlig, H., 2019. __Some simple bitcoin economics.__ [Journal of Monetary Economics (early view).](https://doi.org/10.1016/j.jmoneco.2019.07.002)
+* Market Arbitrage
+  * Makarov, I., & Schoar, A. (2020). **Trading and arbitrage in cryptocurrency markets.** Journal of Financial Economics, 135(2), 293–319. https://doi.org/10.1016/j.jfineco.2019.07.001
+
