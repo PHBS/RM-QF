@@ -54,7 +54,7 @@
 * Rough Volatility (Fractional Brownian Motion, [Wiki](https://en.wikipedia.org/wiki/Fractional_Brownian_motion))
   * **Gatheral, J.**, Jaisson, T., Rosenbaum, M., 2018. **Volatility is rough.** Quantitative Finance 18, 933–949. https://doi.org/10.1080/14697688.2017.1393551
   * Bayer, C., Friz, P., **Gatheral, J.**, 2016. **Pricing under rough volatility.** Quantitative Finance 16, 887–904. https://doi.org/10.1080/14697688.2015.1099717
-  * Glasserman, P., He, P., 2018. Buy Rough, Sell Smooth. SSRN Journal. https://doi.org/10.2139/ssrn.3301669  (Connected to trading strategy)
+  * Glasserman, P., & He, P. (2020). **Buy rough, sell smooth.** Quantitative Finance, 20(3), 363–378. https://doi.org/10.1080/14697688.2019.1675899
 
 ## Derivative Products (Payout)
 * Spread/Basket/Asian Option
