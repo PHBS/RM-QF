@@ -25,7 +25,7 @@
     * Black-Scholes (`BS`) formula
     * Black-Scholes (henceforth, `BS`) formula
     * Black-Scholes (thereafter, `BS`) formula
-  * If there are many of acronyms, it is better to give a table of acronyms in the end ().
+  * If there are many of acronyms, it is better to give a table of acronyms in the beginning (between abstract and text).
   * Abstract is considered as an separate document. Apply the same rule above in abstract. Define first before use any acronym.
 
 # Defense Presentation
@@ -40,4 +40,5 @@
 * Extra slides after "Thank you" slide: 
   * E.g. robustness check. Gives an impression of your effort.
 * Come to research seminar and watch how they are organized
-
+* Practice! Practice! Practice!
+  * Do mock defense several times (among friends or before advisor).
