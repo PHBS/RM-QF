@@ -9,10 +9,10 @@ __03__ | 9.22 Tue | Lecture by **Peng**: [Asset Pricing with Spatial Interaction
 __04__ | 9.29 Tue | Lecture by **Choi**: [Quant Finance Topics](files/quant_topics.md), [Bitcoin Literature Review](files/bitcoin_finance_review.md), [Presenation Order](files/presentation.md)
  x | x | __No Class: National Day Week__
 __05__ | 10.13 Tue | Lecture by **Peng**
-__06__ | 10.20 Tue | Lecture by **Choi and Peng**
+__06__ | 10.20 Tue | Lecture by **Choi** ([Miscellaneous issues in thesis](files/thesis_format.md)) and **Peng**
 __07__ | 10.27 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
 __08__ | 11.03 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
-__09__ | 11.10 Tue | Proposal Presentation (evaluated by **Choi** ([Miscellaneous issues in thesis](files/thesis_format.md)) and **Peng**)
+__09__ | 11.10 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
 __Exam__ | 11.15 Tue | __3:30 - 4:30 PM__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
 __Proposal Report__ | 11.22 Sun | Due by 11:59 AM
 
