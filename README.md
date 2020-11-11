@@ -14,7 +14,7 @@ __07__ | 10.27 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
 __08__ | 11.03 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
 __09__ | 11.10 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
 __Exam__ | 11.17 Tue | __3:30 - 4:30 PM__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
-__Proposal Report__ | 11.22 Sun | Due by 11:59 AM
+__Proposal Report__ | 11.26 Thurs | Due by 11:59 AM
 
 
 ## Classes: 
