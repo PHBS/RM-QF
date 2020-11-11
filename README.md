@@ -13,7 +13,7 @@ __06__ | 10.20 Tue | Lecture by **Choi** ([Miscellaneous issues in thesis](files
 __07__ | 10.27 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
 __08__ | 11.03 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
 __09__ | 11.10 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
-__Exam__ | 11.15 Tue | __3:30 - 4:30 PM__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
+__Exam__ | 11.17 Tue | __3:30 - 4:30 PM__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
 __Proposal Report__ | 11.22 Sun | Due by 11:59 AM
 
 
@@ -44,7 +44,7 @@ The general purpose of the Research Methodology course to prepare students for c
 * Present the proposal in class (4 lectures): about 10 minutes including quick discussion/comments from the professors.
 
 ## Final Exam: English for writing
-* 11.15. (Tues) 3:30 - 4:30 PM. Rm 417.
+* 11.17. (Tues) 3:30 - 4:30 PM. Rm 417.
 * Exam materials (available in Zotero group). Exact scope will be announced later.
   * _The Elements of Style, 2011 Edition_ by Struck
   * _English for Writing Research Papers: Useful Pharase:_ [Download](https://www.springer.com/cda/content/document/cda_downloaddocument/Free+Download+-+Useful+Phrases.pdf?SGWID=0-0-45-1543172-p177775190)
