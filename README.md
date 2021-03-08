@@ -1,21 +1,19 @@
-# Research Methodology for Quant Finance and FinTech, 2020-21 Module 1 (Fall 2020)
+# Research Methodology for Quant Finance and FinTech, 2020-21 Module 3 (Spring 2021)
 
 ## Lectures
 No | Date | Contents
 --- | :---: | ---
-__01__ | 9.08 Tue | Lecture by<br> **Choi**: Course Overview, [Thesis trend](files/thesis_trend.md), and [Zotero](files/zotero.md) <br> **Peng**: Course Introduction (Slides available in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
-__02__ | 9.15 Tue | Lecture by **Choi**: [Zotero](files/zotero.md) with MS Word, [Structure](files/thesis_structure.md), [Topic and Contribution](files/thesis_contribution.md), Citation in Thesis, Etc
-__03__ | 9.22 Tue | Lecture by **Peng**: [Asset Pricing with Spatial Interaction](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2627), [A Jump-Diffusion Model for Option Pricing](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.48.8.1086.166). (Papers and slides avilable in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
-__04__ | 9.29 Tue | Lecture by **Choi**: [Quant Finance Topics](files/quant_topics.md), [Bitcoin Literature Review](files/bitcoin_finance_review.md), [Presenation Order](files/presentation.md)
- x | x | __No Class: National Day Week__
-__05__ | 10.13 Tue | Lecture by **Peng**
-__06__ | 10.20 Tue | Lecture by **Choi** ([Miscellaneous issues in thesis](files/thesis_format.md)) and **Peng**
-__07__ | 10.27 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
-__08__ | 11.03 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
-__09__ | 11.10 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
-__Exam__ | 11.17 Tue | __3:30 - 4:30 PM__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
-__Proposal Report__ | 11.26 Thurs | Due by 11:59 AM
-
+__01__ | 3.09 Tue | Lecture by<br> **Choi**: Course Overview, [Thesis trend](files/thesis_trend.md), and [Zotero](files/zotero.md) <br> **Peng**: Course Introduction (Slides available in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
+__02__ | 3.16 Tue | Lecture by **Choi**: [Zotero](files/zotero.md) with MS Word, [Structure](files/thesis_structure.md), [Topic and Contribution](files/thesis_contribution.md), Citation in Thesis, Etc
+__03__ | 3.23 Tue | Lecture by **Peng**: [Asset Pricing with Spatial Interaction](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2627), [A Jump-Diffusion Model for Option Pricing](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.48.8.1086.166). (Papers and slides avilable in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
+__04__ | 3.30 Tue | Lecture by **Choi**: [Quant Finance Topics](files/quant_topics.md), [Bitcoin Literature Review](files/bitcoin_finance_review.md), [Presenation Order](files/presentation.md)
+__05__ | 4.06 Tue | Lecture by **Peng**
+__06__ | 4.13 Tue | Lecture by **Choi** ([Miscellaneous issues in thesis](files/thesis_format.md)) and **Peng**
+__07__ | 4.20 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
+__08__ | 4.27 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
+__09__ | 5.04 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
+__Exam__ | 5.26 Sat | __7 - 8 PM__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
+__Proposal Report__ | 5.26 Thurs | Due by 11:59 AM
 
 ## Classes: 
 * Lectures: Tuesday 3:30 – 5:20 PM
@@ -27,8 +25,8 @@ __Proposal Report__ | 11.26 Thurs | Due by 11:59 AM
 * Email: jaehyuk / xianhuapeng @ phbs.pku.edu.cn
 * Office Hour: TBA
 
-## Teaching Assistance: "Arthur" Rong CHEN (陈容)
-* Email: 1801212829@pku.edu.cn
+## Teaching Assistance: TBA
+* Email: 
 * TA Office Hour: TBA (Room 213/214)
 
 ## Course overview: 
@@ -46,9 +44,9 @@ The general purpose of the Research Methodology course to prepare students for c
 ## Final Exam: English for writing
 * 11.17. (Tues) 3:30 - 4:30 PM. Rm 421.
 * Exam materials (available in Zotero group). Exact scope will be announced later.
-  * _The Elements of Style, 2011 Edition_ by Struck
+  * _The Elements of Style, Fourth Edition_ by Struck and White
   * _English for Writing Research Papers: Useful Pharase:_ [Download](https://www.springer.com/cda/content/document/cda_downloaddocument/Free+Download+-+Useful+Phrases.pdf?SGWID=0-0-45-1543172-p177775190)
-  * The material will not be covered in class. Study by yourself.
+  * The material will __not__ be covered in class. Study by yourself.
   * Exam questions will be from the examples (and slight variations of examples) in the materials (mostly from _the Elements of Style_). 
 * Exam will be in 1 hr. It is closed-book. Answer sheets wil be provided. Do not put anything on desk except pencil.
 * There will be about 30~40 problems. There will be two two type of quesions:
