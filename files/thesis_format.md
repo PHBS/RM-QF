@@ -2,8 +2,10 @@
 
 ## Reference / Citation
 * Difference between `citep` vs `citet` style:
-  * In the sentence: Choi et al. (2020) investigate ...
-  * Outside the sentence: The futures are important (Choi et al. 2020).
+  * In the sentence: 
+    > Choi et al. (2020) investigate ...
+  * Outside the sentence: 
+    > The futures are important (Choi et al. 2020).
 * Keep consistency in style: `Liu (2019)` vs `Liu, A. (2019)`
 * Be careful with the plural form:
   * (O) Choi and Wu (2020) `find` that ... 
