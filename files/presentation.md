@@ -4,22 +4,28 @@
 ## Presentation Schedule
 Student Number | Chinese Name | English Name
 :---:|:---:|:---:
-**Week 7: 10.27** | ======= | ===============
-1901212480 | 龚晨印 | Gong Chenyin
-1901212681 | 赵亦欣 | Zhao Yixin
-1901212576 | 方雨婷 | Fang Yuting
-1901212582 | 何金泽 | He Jinze
-1901212684 | 周驰 | Zhou Chi
-**Week 8: 11.03** | ======= | ===============
-1801212832 | 谌子民 | Shen Zimin "Simon"
-1901212587 | 胡天锐 | Hu Tianrui
-1901212658 | 杨越 | Yang Yue
-1901212498 | 庞博 | Pombo
-1901212602 | 李浩治 | Li Haoji
-**Week 9: 11.10** | ======= | ===============
-1901212691 | 胡逸凡 | Hu Yifan "Evan"
-1901212625 | 秦诗瑶 | Qin Shiyao
-1901212637 | 王琮元 | Wang Congyuan
-1901212629 | 上官森 | Shang Guansen
-1901212491 | 刘俐 | Liu Li
-1901212620 | 吕张劼 | Lu Zhangjie
+**Week 6: 4.13** | ======= | ===============
+1901212578 | 高天琦 | Gao Tianqi
+1901212567 | 陈之昊 | Chen Zhihao
+1901212571 | 邓珂雅 | Deng Keya
+1901212664 | 玉鑫霖 | Yu Xinlin
+1901212623 | 倪叶 | Ni Ye
+1901212601 | 李方闻 | Li Fangwen
+**Week 7: 4.20** | ======= | ===============
+1901212585 | 胡磊 | Hu Lei
+1901212603 | 李佳辉 | Li Jiahui
+1901212561 | 曹继中 | Cao Jizhong
+1901212617 | 陆雨田 | Lu Yutian
+1901212689 | 宗艳洁 | ZongYanjie
+**Week 8: 4.27** | ======= | ===============
+1901212641 | 王珂 | Ke Wang
+1901212687 | 庄铭楷 | ZHUANG MINGKAI
+1901212618 | 罗朝婧 | Luo Chaojing
+1901212628 | 任嘉曦 | Ren Jiaxi
+1901212583 | 何隽贤 | He Junxian
+**Week 9: 5.04** | ======= | ===============
+1901212644 | 王子雄 | Wang Zixiong
+1901212672 | 张平 | Zhang Ping
+1901212615 | 刘忻 | Liu Xin
+1901212631 | 沈廷威 | Shen Tingwei
+1901212560 | 玻澜 | Bo Lan
