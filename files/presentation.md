@@ -1,5 +1,5 @@
 # Proposal Presentation 
-* Each student has 20 minutes including quick discussion/comments from the professors.
+* Each student has 15 minutes for presentation excluding discussion/comments from the professors.
 
 ## Presentation Schedule
 Student Number | Chinese Name | English Name
