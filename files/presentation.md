@@ -13,11 +13,11 @@ Student Number | Chinese Name | English Name
 1901212601 | 李方闻 | Li Fangwen
 **Week 7: 4.20** | ======= | ===============
 1901212585 | 胡磊 | Hu Lei
-1901212603 | 李佳辉 | Li Jiahui
 1901212561 | 曹继中 | Cao Jizhong
 1901212617 | 陆雨田 | Lu Yutian
 1901212689 | 宗艳洁 | Zong Yanjie
 **Week 8: 4.27** | ======= | ===============
+1901212603 | 李佳辉 | Li Jiahui (Rescheduled)
 1901212641 | 王珂 | Ke Wang
 1901212687 | 庄铭楷 | Zhuang Mingkai
 1901212618 | 罗朝婧 | Luo Chaojing
