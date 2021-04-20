@@ -15,7 +15,6 @@ Student Number | Chinese Name | English Name
 1901212585 | 胡磊 | Hu Lei
 1901212561 | 曹继中 | Cao Jizhong
 1901212617 | 陆雨田 | Lu Yutian
-1901212689 | 宗艳洁 | Zong Yanjie
 **Week 8: 4.27** | ======= | ===============
 1901212603 | 李佳辉 | Li Jiahui (Rescheduled)
 1901212641 | 王珂 | Ke Wang
@@ -23,6 +22,7 @@ Student Number | Chinese Name | English Name
 1901212618 | 罗朝婧 | Luo Chaojing
 1901212628 | 任嘉曦 | Ren Jiaxi
 1901212583 | 何隽贤 | He Junxian
+1901212689 | 宗艳洁 | Zong Yanjie (Rescheduled)
 **Week 9: 5.04** | ======= | ===============
 1901212644 | 王子雄 | Wang Zixiong
 1901212672 | 张平 | Zhang Ping
