@@ -20,10 +20,10 @@ Student Number | Chinese Name | English Name
 1901212641 | 王珂 | Ke Wang
 1901212687 | 庄铭楷 | Zhuang Mingkai
 1901212618 | 罗朝婧 | Luo Chaojing
-1901212628 | 任嘉曦 | Ren Jiaxi
 1901212583 | 何隽贤 | He Junxian
 1901212689 | 宗艳洁 | Zong Yanjie (Rescheduled)
 **Week 9: 5.04** | ======= | ===============
+1901212628 | 任嘉曦 | Ren Jiaxi (Rescheduled)
 1901212644 | 王子雄 | Wang Zixiong
 1901212672 | 张平 | Zhang Ping
 1901212615 | 刘忻 | Liu Xin
