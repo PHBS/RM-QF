@@ -3,20 +3,20 @@
 ## Lectures
 No | Date | Contents
 --- | :---: | ---
-__01__ | 3.09 Tue | Lecture by<br> **Choi**: Course Overview, [Thesis trend](files/thesis_trend.md), and [Zotero](files/zotero.md) <br> **Peng**: Course Introduction (Slides available in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
-__02__ | 3.16 Tue | Lecture by **Peng**: [Asset Pricing with Spatial Interaction](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2627), [A Jump-Diffusion Model for Option Pricing](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.48.8.1086.166). (Papers and slides avilable in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
-__03__ | 3.23 Tue | Lecture by **Choi**: [Zotero](files/zotero.md) with MS Word, [Structure](files/thesis_structure.md), [Topic and Contribution](files/thesis_contribution.md), [Citation and other issues in thesis](files/thesis_format.md).
-__04__ | 3.30 Tue | Lecture by **Peng**
-__05__ | 4.06 Tue | Lecture by **Choi**: [Quant Finance Topics](files/quant_topics.md), [Bitcoin Literature Review](files/bitcoin_finance_review.md), [Presenation Order](files/presentation.md)
-__06__ | 4.13 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
-__07__ | 4.20 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
-__08__ | 4.27 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
-__09__ | 5.04 Tue | Proposal Presentation (evaluated by **Choi and Peng**)
-__Exam__ | 5.15 Sat | __7 - 8 PM__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
-__Proposal Report__ | 5.16 Sun | Due by 11:59 PM
+__01__ | 9.06 Mon | Lecture by<br> **Choi**: Course Overview, [Thesis trend](files/thesis_trend.md), and [Zotero](files/zotero.md) <br> **Peng**: Course Introduction (Slides available in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
+__02__ | 9.13 Mon | Lecture by **Peng**: [Asset Pricing with Spatial Interaction](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2627), [A Jump-Diffusion Model for Option Pricing](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.48.8.1086.166). (Papers and slides avilable in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
+__03__ | 9.20 Mon | Lecture by **Choi**: [Zotero](files/zotero.md) with MS Word, [Structure](files/thesis_structure.md), [Topic and Contribution](files/thesis_contribution.md), [Citation and other issues in thesis](files/thesis_format.md).
+__04__ | 9.27 Mon | Lecture by **Peng**
+__05__ | 10.11 Mon | Lecture by **Choi**: [Quant Finance Topics](files/quant_topics.md), [Bitcoin Literature Review](files/bitcoin_finance_review.md), [Presenation Order](files/presentation.md)
+__06__ | 10.18 Mon | Proposal Presentation (evaluated by **Choi and Peng**)
+__07__ | 10.25 Mon | Proposal Presentation (evaluated by **Choi and Peng**)
+__08__ | 11.01 Mon | Proposal Presentation (evaluated by **Choi and Peng**)
+__09__ | 11.08 Mon | Proposal Presentation (evaluated by **Choi and Peng**)
+__Exam__ | TBA | __7 - 8 PM__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
+__Proposal Report__ | TBA | Due by 11:59 PM
 
 ## Classes: 
-* Lectures: Tuesday 3:30 – 5:20 PM
+* Lectures: Monday 3:30 – 5:20 PM
 * Venue: PHBS Building, Room 417
 
 ## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en) / [Xianhua Peng](https://english.phbs.pku.edu.cn/content-627-104-1.html)
