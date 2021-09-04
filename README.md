@@ -1,4 +1,4 @@
-# Research Methodology for Quant Finance and FinTech, 2020-21 Module 3 (Spring 2021)
+# Research Methodology for Quant Finance and FinTech, 2021-22 Module 1 (Fall 2021)
 
 ## Lectures
 No | Date | Contents
