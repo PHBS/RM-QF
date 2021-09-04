@@ -12,11 +12,11 @@ __06__ | 10.18 Mon | Proposal Presentation (evaluated by **Choi and Peng**)
 __07__ | 10.25 Mon | Proposal Presentation (evaluated by **Choi and Peng**)
 __08__ | 11.01 Mon | Proposal Presentation (evaluated by **Choi and Peng**)
 __09__ | 11.08 Mon | Proposal Presentation (evaluated by **Choi and Peng**)
-__Exam__ | 11.XX Sat | __7 - 8 PM__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
-__Proposal Report__ | 5.16 Sun | Due by 11:59 PM
+__Exam__ | TBA | __7 - 8 PM__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
+__Proposal Report__ | TBA | Due by 11:59 PM
 
 ## Classes: 
-* Lectures: Tuesday 3:30 – 5:20 PM
+* Lectures: Monday 3:30 – 5:20 PM
 * Venue: PHBS Building, Room 417
 
 ## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en) / [Xianhua Peng](https://english.phbs.pku.edu.cn/content-627-104-1.html)
