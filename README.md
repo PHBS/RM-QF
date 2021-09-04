@@ -25,8 +25,8 @@ __Proposal Report__ | TBA | Due by 11:59 PM
 * Email: jaehyuk / xianhuapeng @ phbs.pku.edu.cn
 * Office Hour: TBA
 
-## Teaching Assistance: TBA
-* Email: 
+## Teaching Assistance: 李梦桐 (Mengtong Li)
+* Email: lmt1012@stu.pku.edu.cn
 * TA Office Hour: TBA (Room 213/214)
 
 ## Course overview: 
