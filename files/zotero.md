@@ -11,7 +11,7 @@
 * Install Zotero (Zotero for your OS + Browser Connector): [Download](https://www.zotero.org/download/)
 * Create your account (free) and join the [Group Library: RM-QF](https://www.zotero.org/groups/2363301/phbs-rm-qf)
 
-![Group Join](../images/creating_bib.PNG)
+![Group Join](../images/Group-Join.JPG)
 
 * Make sure to put your full name under profile
 
@@ -24,7 +24,7 @@
 * Select either `Bibliography` or `Citations`. Select `Copy to Clipboard`
 * Paste into MS Word.
 
-![Word Plugin Install](../images/msword_plugin.png)
+![Word Plugin Install](../images/creating_bib.png)
 
 ## Zotero plug-in for MS Word (Complicated)
 * Install MS Word plugin: `Edit` - `Preferences` - `Cite` - `Word Processors`
