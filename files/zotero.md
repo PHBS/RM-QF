@@ -11,18 +11,26 @@
 * Install Zotero (Zotero for your OS + Browser Connector): [Download](https://www.zotero.org/download/)
 * Create your account (free) and join the [Group Library: RM-QF](https://www.zotero.org/groups/2363301/phbs-rm-qf)
 
-![Group Join](../images/Group-Join.JPG)
+![Group Join](../images/creating_bib.PNG)
 
 * Make sure to put your full name under profile
 
 ![Profile Name](../images/Profile-Name.PNG)
 
-## Zotero plug-in for MS Word
+## Creating reference list
+* Select all items (`Ctrl-A`). 
+* Right-click. Select `Create Bibliography from items...`. 
+* Select `China National Standard GB/T 7714-2015 (author-date, 中文)`. You'll have to download the GB/T style first.
+* Select either `Bibliography` or `Citations`. Select `Copy to Clipboard`
+* Paste into MS Word.
+
+![Word Plugin Install](../images/msword_plugin.png)
+
+## Zotero plug-in for MS Word (Complicated)
 * Install MS Word plugin: `Edit` - `Preferences` - `Cite` - `Word Processors`
 
 ![Word Plugin Install](../images/msword_plugin.png)
 
 ![Word Plugin Menu](../images/msword_menu.PNG)
 
-## Creating reference list
 
