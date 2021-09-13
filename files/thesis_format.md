@@ -6,10 +6,14 @@
     > Choi et al. (2020) investigate ...
   * Outside the sentence: 
     > The futures are important (Choi et al. 2020).
-* Keep consistency in style: `Liu (2019)` vs `Liu, A. (2019)`
+* `China National Standard GB/T 7714` is the standard citation format for thesis. 
+  * `Choi (2019)` (single author) or  `Choi et al. (2019)` / `CHOI 等 (2019)` (multiple authors)
+  * Use Zotero to generate the reference list.
+  * For Englihs version, you may use `APA 7th edition` style
+  * In general, be consistent.
 * Be careful with the plural form:
-  * (O) Choi and Wu (2020) `find` that ... 
-  * (X) Choi and Wu (2020) `finds` that ... 
+  * (O) Choi et al. (2020) `find` that ... 
+  * (X) Choi et al. (2020) `finds` that ... 
 * Make sure that there is no missing reference in bibliography section 
 
 ## Language and Tone
