@@ -24,7 +24,7 @@
 * Select either `Bibliography` or `Citations`. Select `Copy to Clipboard`
 * Paste into MS Word.
 
-![Word Plugin Install](../images/creating_bib.png)
+![Word Plugin Install](../images/creating_bib.PNG)
 
 ## Zotero plug-in for MS Word (Complicated)
 * Install MS Word plugin: `Edit` - `Preferences` - `Cite` - `Word Processors`
