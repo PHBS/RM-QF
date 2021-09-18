@@ -15,6 +15,9 @@ __09__ | 11.08 Mon | Proposal Presentation (evaluated by **Choi and Peng**)
 __Exam__ | TBA | __7 - 8 PM__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
 __Proposal Report__ | TBA | Due by 11:59 PM
 
+## Syllabus:
+* [Download](files/2021_PHBS SYLLABUS_RM_QF_Choi_Peng.pdf)
+
 ## Classes: 
 * Lectures: Monday 3:30 – 5:20 PM
 * Venue: PHBS Building, Room 417
