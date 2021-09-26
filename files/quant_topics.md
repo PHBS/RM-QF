@@ -41,30 +41,30 @@
 * Arithmetic BM: Normal (Bachelier) Model 
 * Ornstein-Uhlenbeck (OU) Process: [Wiki](https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process)
 * Constant-Elasticity-Of-Variance (CEV) Model: [Wiki](https://en.wikipedia.org/wiki/Constant_elasticity_of_variance_model)
-  * Analytic Option Pricing: Schroder, M., 1989. **Computing the constant elasticity of variance option pricing formula.** Journal of Finance 44, 211–219. https://doi.org/10.1111/j.1540-6261.1989.tb02414.x
-  * Various Approximation: Larguinho, M., Dias, J.C., Braumann, C.A., 2013. **On the computation of option prices and Greeks under the CEV model.** Quantitative Finance 13, 907–917. https://doi.org/10.1080/14697688.2013.765958
+  * Analytic Option Pricing: Schroder, M. (1989). **Computing the constant elasticity of variance option pricing formula.** Journal of Finance 44, 211–219. https://doi.org/10.1111/j.1540-6261.1989.tb02414.x
+  * Various Approximation: Larguinho, M., Dias, J.C., Braumann, C.A. (2013). **On the computation of option prices and Greeks under the CEV model.** Quantitative Finance 13, 907–917. https://doi.org/10.1080/14697688.2013.765958
 * Stochastic Volatility Models: see [Wiki](https://en.wikipedia.org/wiki/Stochastic_volatility) for SDE.
-  * Heston Model: Heston, S.L., 1993. **A closed-form solution for options with stochastic volatility with applications to bond and currency options.** Review of Financial Studies 6, 327–343. https://doi.org/10.1093/rfs/6.2.327
-  * SABR Model: Hagan, P.S., Kumar, D., Lesniewski, A.S., Woodward, D.E., 2002. **Managing smile risk.** Wilmott Magazine 2002, 84–108.
+  * Heston Model: Heston, S.L. (1993). **A closed-form solution for options with stochastic volatility with applications to bond and currency options.** Review of Financial Studies 6, 327–343. https://doi.org/10.1093/rfs/6.2.327
+  * SABR Model: Hagan, P.S., Kumar, D., Lesniewski, A.S., Woodward, D.E. (2002). **Managing smile risk.** Wilmott Magazine 2002, 84–108.
   * 3/2 Model: Creator unclear.
-  * 4/2 Model: Grasselli, M., 2017. **The 4/2 Stochastic Volatility Model: A Unified Approach for the Heston and the 3/2 Model.** Mathematical Finance 27, 1013–1034. https://doi.org/10.1111/mafi.12124
+  * 4/2 Model: Grasselli, M. (2017). **The 4/2 Stochastic Volatility Model: A Unified Approach for the Heston and the 3/2 Model.** Mathematical Finance 27, 1013–1034. https://doi.org/10.1111/mafi.12124
   * OU Stochastic Process: 
 * Jump diffusion: 
-  * Kou, S.G., 2002. A Jump-Diffusion Model for Option Pricing. Management Science 48, 1086–1101. https://doi.org/10.1287/mnsc.48.8.1086.166
+  * Kou, S.G. (2002). A Jump-Diffusion Model for Option Pricing. Management Science 48, 1086–1101. https://doi.org/10.1287/mnsc.48.8.1086.166
 * Rough Volatility (Fractional Brownian Motion, [Wiki](https://en.wikipedia.org/wiki/Fractional_Brownian_motion))
-  * **Gatheral, J.**, Jaisson, T., Rosenbaum, M., 2018. **Volatility is rough.** Quantitative Finance 18, 933–949. https://doi.org/10.1080/14697688.2017.1393551
-  * Bayer, C., Friz, P., **Gatheral, J.**, 2016. **Pricing under rough volatility.** Quantitative Finance 16, 887–904. https://doi.org/10.1080/14697688.2015.1099717
+  * **Gatheral, J.**, Jaisson, T., Rosenbaum, M. (2018). **Volatility is rough.** Quantitative Finance 18, 933–949. https://doi.org/10.1080/14697688.2017.1393551
+  * Bayer, C., Friz, P., **Gatheral, J.** (2016). **Pricing under rough volatility.** Quantitative Finance 16, 887–904. https://doi.org/10.1080/14697688.2015.1099717
   * Glasserman, P., & He, P. (2020). **Buy rough, sell smooth.** Quantitative Finance, 20(3), 363–378. https://doi.org/10.1080/14697688.2019.1675899
 
 ## Derivative Products (Payout)
 * Spread/Basket/Asian Option
-  * Krekel, M., de Kock, J., Korn, R., Man, T.-K., 2004. **An analysis of pricing methods for basket options.** Wilmott Magazine 2004, 82–89. 
-  * Choi, J., 2018. **Sum of all Black-Scholes-Merton models: An efficient pricing method for spread, basket, and Asian options.** Journal of Futures Markets 38, 627–644. https://doi.org/10.1002/fut.21909
-  * Fu, L., 2019. **Pricing Basket Options with Equivalent Bachelier Model** (MA thesis). **Peking University HSBC Business School**, Shenzhen, China.
+  * Krekel, M., de Kock, J., Korn, R., Man, T.-K. (2004). **An analysis of pricing methods for basket options.** Wilmott Magazine 2004, 82–89. 
+  * Choi, J. (2018). **Sum of all Black-Scholes-Merton models: An efficient pricing method for spread, basket, and Asian options.** Journal of Futures Markets 38, 627–644. https://doi.org/10.1002/fut.21909
+  * Fu, L. (2019). **Pricing Basket Options with Equivalent Bachelier Model** (MA thesis). **Peking University HSBC Business School**, Shenzhen, China.
 * Timer Option 
-  * Li, C., 2016. **Bessel Processes, Stochastic Volatility, and Timer Options.** Mathematical Finance 26, 122–148. https://doi.org/10.1111/mafi.12041
-  * Li, M., Mercurio, F., 2015. **Analytic Approximation of Finite‐Maturity Timer Option Prices.** Journal of Futures Markets 35, 245–273. https://doi.org/10.1002/fut.21659
-  * Bernard, C., Cui, Z., 2011. **Pricing timer options.** Journal of Computational Finance 15, 69–104. https://doi.org/10.21314/JCF.2011.228
+  * Li, C. (2016). **Bessel Processes, Stochastic Volatility, and Timer Options.** Mathematical Finance 26, 122–148. https://doi.org/10.1111/mafi.12041
+  * Li, M., Mercurio, F. (2015). **Analytic Approximation of Finite‐Maturity Timer Option Prices.** Journal of Futures Markets 35, 245–273. https://doi.org/10.1002/fut.21659
+  * Bernard, C., Cui, Z. (2011). **Pricing timer options.** Journal of Computational Finance 15, 69–104. https://doi.org/10.21314/JCF.2011.228
 * Barrier Option (Knock-in, Knock-out), Rainbow Option, Lookback Option, Compound Option, Etc
 * Cliquet Option
 * Parisian Option
@@ -74,11 +74,12 @@
 
 ## Monte-Carlo Simulation
 * Heston Model: 
-  * Andersen, L., 2008. **Simple and efficient simulation of the Heston stochastic volatility model.** The Journal of Computational Finance 11, 1–42. https://doi.org/10.21314/JCF.2008.189
-  * Broadie, M., Kaya, Ö., 2006. **Exact Simulation of Stochastic Volatility and Other Affine Jump Diffusion Processes.** Operations Research 54, 217–231. https://doi.org/10.1287/opre.1050.0247
-* 3/2 Model: Baldeaux, J., 2012. **Exact simulation of the 3/2 model.** Int. J. Theor. Appl. Finan. 15, 1250032. https://doi.org/10.1142/S021902491250032X 
-* SABR Model: Cai, N., Song, Y., Chen, N., 2017. **Exact Simulation of the SABR Model.** Operations Research 65, 931–951. https://doi.org/10.1287/opre.2017.1617 | Choi, J., Liu, C., Seo, B.K., 2019. **Hyperbolic normal stochastic volatility model.** Journal of Futures Markets 39, 186–204. https://doi.org/10.1002/fut.21967
-* OU Stochastic Volatility Model: Li, C., Wu, L., 2019. **Exact simulation of the Ornstein–Uhlenbeck driven stochastic volatility model.** European Journal of Operational Research 275, 768–779. https://doi.org/10.1016/j.ejor.2018.11.057
+  * Andersen, L. (2008). **Simple and efficient simulation of the Heston stochastic volatility model.** The Journal of Computational Finance 11, 1–42. https://doi.org/10.21314/JCF.2008.189
+  * Broadie, M., Kaya, Ö. (2006). **Exact Simulation of Stochastic Volatility and Other Affine Jump Diffusion Processes.** Operations Research 54, 217–231. https://doi.org/10.1287/opre.1050.0247
+* 3/2 Model: Baldeaux, J. (2012). **Exact simulation of the 3/2 model.** Int. J. Theor. Appl. Finan. 15, 1250032. https://doi.org/10.1142/S021902491250032X 
+* SABR Model: Cai, N., Song, Y., Chen, N. (2017). **Exact Simulation of the SABR Model.** Operations Research 65, 931–951. https://doi.org/10.1287/opre.2017.1617 | Choi, J., Liu, C., Seo, B.K. (2019). **Hyperbolic normal stochastic volatility model.** Journal of Futures Markets 39, 186–204. https://doi.org/10.1002/fut.21967
+* OU Stochastic Volatility Model: Li, C., Wu, L. (2019). **Exact simulation of the Ornstein–Uhlenbeck driven stochastic volatility model.** European Journal of Operational Research 275, 768–779. https://doi.org/10.1016/j.ejor.2018.11.057
+* __[MA Thesis Example]__ Chang, X. (2021). The Faster Almost Exact simulation on OUSV model [Mathesis]. Peking University HSBC Business School.
 
 ## Mix and Match for new contribution (The combinations are unlimited !)
 * Model + Product
@@ -102,13 +103,14 @@
 * Minimum variance portfolio 
 * Smart Beta (factor investing)
 * Risk parity portfolio ([Wiki](https://en.wikipedia.org/wiki/Risk_parity); Equal Risk Contribution): very popular in asset management industry.
-  * Maillard, S., Roncalli, T., Teïletche, J., 2010. **The Properties of Equally Weighted Risk Contribution Portfolios.** The Journal of Portfolio Management 36, 60–70. https://doi.org/10.3905/jpm.2010.36.4.060
-  * Chaves, D., Hsu, J., Li, F., Shakernia, O., 2012. **Efficient Algorithms for Computing Risk Parity Portfolio Weights.** The Journal of Investing 21, 150–163. https://doi.org/10.3905/joi.2012.21.3.150
-  * Prado, M.L. de, 2016. **Building Diversified Portfolios that Outperform Out of Sample.** The Journal of Portfolio Management 42, 59–69. https://doi.org/10.3905/jpm.2016.42.4.059
+  * Maillard, S., Roncalli, T., Teïletche, J. (2010). **The Properties of Equally Weighted Risk Contribution Portfolios.** The Journal of Portfolio Management 36, 60–70. https://doi.org/10.3905/jpm.2010.36.4.060
+  * Chaves, D., Hsu, J., Li, F., Shakernia, O. (2012). **Efficient Algorithms for Computing Risk Parity Portfolio Weights.** The Journal of Investing 21, 150–163. https://doi.org/10.3905/joi.2012.21.3.150
+  * __[MA Thesis Example]__ Chen, R. (2021). Multidimensional Root Finding Method for Solving Risk Parity Model [Mathesis]. Peking University HSBC Business School.
+
 
 ## Trading Strategy
 * `Alpha` signal:
-  * Kakushadze, Z., Serur, J.A., 2018. **151 Trading Strategies.** SSRN Electronic Journal. https://papers.ssrn.com/abstract=3247865
+  * Kakushadze, Z., Serur, J.A. (2018). **151 Trading Strategies.** SSRN Electronic Journal. https://papers.ssrn.com/abstract=3247865
 * Can machine learning predict outperforming strategy given economic situation?
 * Consider uncommon asset class (e.g., not equity): commodity, interest rates, FX, etc.
 
@@ -122,7 +124,7 @@
 
 ## Crypto + Quant Finance
 * Bitcoin Option Pricing: which process fits bitcoin option markets better?
-  * Madan, D.B., Reyners, S., Schoutens, W., 2019. **Advanced model calibration on bitcoin options.** Digital Finance. https://doi.org/10.1007/s42521-019-00002-1
+  * Madan, D.B., Reyners, S., Schoutens, W. (2019). **Advanced model calibration on bitcoin options.** Digital Finance. https://doi.org/10.1007/s42521-019-00002-1
 * VIX index in Cyprocurrency: Alexander, C., & Imeraj, A. (2019). **The Crypto Investor Fear Gauge and the Bitcoin Variance Risk Premium.** SSRN Electronic Journal. https://papers.ssrn.com/abstract=3456853
 
 ## Financial Machine Learning:
@@ -134,18 +136,21 @@
 * ML method may help you future career!
 
 ### Books and Journals
-  * López de Prado, M.M., 2018. **Advances in financial machine learning.** Wiley, New Jersey.: [Link](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086) | [Github](https://github.com/ssunger/Advances-in-Financial-Machine-Learning)
-  * Hull, J.C., 2019. **Machine Learning in Business: An Introduction to the World of Data Science.** [Link](https://www.amazon.com/Machine-Learning-Business-Introduction-Science/dp/1079988254)
+  * López de Prado, M.M. (2018). **Advances in financial machine learning.** Wiley, New Jersey.: [Link](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086) | [Github](https://github.com/ssunger/Advances-in-Financial-Machine-Learning)
+  * Hull, J.C. (2019). **Machine Learning in Business: An Introduction to the World of Data Science.** [Link](https://www.amazon.com/Machine-Learning-Business-Introduction-Science/dp/1079988254)
   * Journals: [__Digital Finance__](https://www.springer.com/finance/journal/42521) and [__Journal of Financial Data Science__](https://jfds.pm-research.com/)
 
 ### Papers
 * Gu, S., Kelly, B., & Xiu, D. (2020). **Empirical Asset Pricing via Machine Learning.** The Review of Financial Studies, 33(5), 2223–2273. https://doi.org/10.1093/rfs/hhaa009 [[SSRN](https://doi.org/10.2139/ssrn.3159577)]
-* Moritz, B., Zimmermann, T., 2016. **Tree-Based Conditional Portfolio Sorts: The Relation between Past and Future Stock Returns.** SSRN Journal. https://doi.org/10.2139/ssrn.2740751
-* Giglio, S., Liao, Y., Xiu, D., 2018. **Thousands of Alpha Tests.** SSRN Journal. https://doi.org/10.2139/ssrn.3259268
-* Chen, L., Pelger, M., Zhu, J., 2019. **Deep Learning in Asset Pricing.** SSRN Journal. https://doi.org/10.2139/ssrn.3350138
-* Woo, J., Liu, C., Choi, J., 2018. **Leave-One-Out Least Square Monte Carlo Algorithm for Pricing American Options.** [arXiv:1810.02071](http://arxiv.org/abs/1810.02071) [q-fin, stat]. (Early version in **PHBS MA thesis**)
-* Li, K., Mai, F., Shen, R., Yan, X., 2019. **Measuring Corporate Culture Using Machine Learning.** SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3256608
-* Lopez de Prado, M., 2019. **Ten Applications of Financial Machine Learning. SSRN Electronic Journal.** https://ssrn.com/abstract=3365271
+  * __[MA Thesis]__ Zhou, J. (2021). Empirical asset pricing via machine learning in the Chinese Stock Market [Mathesis]. Peking University HSBC Business School.
+* Gu, S., Kelly, B., & Xiu, D. (2020). Autoencoder asset pricing models. Journal of Econometrics. https://doi.org/10.1016/j.jeconom.2020.07.009
+  * __[MA Thesis]__ Yu, X. (2021). Autoencoder Asset Pricing Models in China Stock Market [Mathesis]. Peking University HSBC Business School.
+* Moritz, B., Zimmermann, T. (2016). **Tree-Based Conditional Portfolio Sorts: The Relation between Past and Future Stock Returns.** SSRN Journal. https://doi.org/10.2139/ssrn.2740751
+* Giglio, S., Liao, Y., Xiu, D. (2018). **Thousands of Alpha Tests.** SSRN Journal. https://doi.org/10.2139/ssrn.3259268
+* Chen, L., Pelger, M., Zhu, J. (2019). **Deep Learning in Asset Pricing.** SSRN Journal. https://doi.org/10.2139/ssrn.3350138
+* Woo, J., Liu, C., Choi, J. (2018). **Leave-One-Out Least Square Monte Carlo Algorithm for Pricing American Options.** [arXiv:1810.02071](http://arxiv.org/abs/1810.02071) [q-fin, stat]. (Early version in **PHBS MA thesis**)
+* Li, K., Mai, F., Shen, R., Yan, X. (2019). **Measuring Corporate Culture Using Machine Learning.** SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3256608
+* Lopez de Prado, M. (2019). **Ten Applications of Financial Machine Learning. SSRN Electronic Journal.** https://ssrn.com/abstract=3365271
 
 ### MA Thesis Example
 * Long, Shuyi (2019). **Smart Beta Investing: A New Method Based on Machine Learning and Black-Litterman Model** [Mathesis]. Peking University HSBC Business School.
