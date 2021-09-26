@@ -35,6 +35,7 @@
   > • Bitcoin has hedge and safe haven properties against __Asia Pacific stocks__.
 * Dyhrberg, A.H., 2016. __Hedging capabilities of bitcoin. Is it the virtual gold?__ [Finance Research Letters 16, 139–144.](https://doi.org/10.1016/j.frl.2015.10.025)
   > ... bitcoin can clearly be used as a hedge against stocks in the Financial Times Stock Exchange Index. Additionally bitcoin can be used as a hedge against the American dollar in the short-term. Bitcoin thereby possess some of the same hedging abilities as __gold__ ...
+* __[MA Thesis]__ Shon, D. (2019). Cryptocurrency and CAPM with Bitcoin price based [Mathesis]. Peking University HSBC Business School.
 
 ## Influence between Bitcoin and Cryptocurrencies
 * Koutmos, D., 2018. __Return and volatility spillovers among cryptocurrencies__. [Economics Letters 173, 122–127.](https://doi.org/10.1016/j.econlet.2018.10.004)
@@ -45,7 +46,6 @@
   > • Bitcoin bifurcation reverses the direction of shock transmission.
 * Katsiampa, P., Corbet, S., Lucey, B., 2019. __Volatility spillover effects in leading cryptocurrencies: A BEKK-MGARCH analysis.__ [Finance Research Letters 29, 68–74.](https://doi.org/10.1016/j.frl.2019.03.009)
   > • We find evidence of bi-directional shock transmission effects between Bitcoin and both Ether and Litecoin.
-
  
 ## Price discovery
 * Background:
