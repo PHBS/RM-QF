@@ -39,6 +39,7 @@
 ## Stochastic Processes
 * Geometric Browniam Motion: Black-Scholes model
 * Arithmetic BM: Normal (Bachelier) Model 
+  * __[MA Thesis]__ Wang, Y. (2020). Barrier Option Pricing under Normal Model [Mathesis]. Peking University HSBC Business School.
 * Ornstein-Uhlenbeck (OU) Process: [Wiki](https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process)
 * Constant-Elasticity-Of-Variance (CEV) Model: [Wiki](https://en.wikipedia.org/wiki/Constant_elasticity_of_variance_model)
   * Analytic Option Pricing: Schroder, M. (1989). **Computing the constant elasticity of variance option pricing formula.** Journal of Finance 44, 211–219. https://doi.org/10.1111/j.1540-6261.1989.tb02414.x
@@ -48,7 +49,9 @@
   * SABR Model: Hagan, P.S., Kumar, D., Lesniewski, A.S., Woodward, D.E. (2002). **Managing smile risk.** Wilmott Magazine 2002, 84–108.
   * 3/2 Model: Creator unclear.
   * 4/2 Model: Grasselli, M. (2017). **The 4/2 Stochastic Volatility Model: A Unified Approach for the Heston and the 3/2 Model.** Mathematical Finance 27, 1013–1034. https://doi.org/10.1111/mafi.12124
-  * OU Stochastic Process: 
+  * __[MA Thesis]__ Zhang, S. (2020). Using Gaussian Process Regression to Improve the Analytic Approximation Accuracy of Equivalent Volatility in SABR model [Mathesis]. Peking University HSBC Business School.
+  * __[MA Thesis]__ Zhuang, L. (2020). Generalized Hyperbolic Distribution: Approximation and Estimation [Mathesis]. Peking University HSBC Business School.
+  * __[MA Thesis (Best Thesis Award)]__ Gong, L. (2021). A Normal and Lognormal Hybrid Model for Pricing Interest Rate Derivatives [Mathesis]. Peking University HSBC Business School. 
 * Jump diffusion: 
   * Kou, S.G. (2002). A Jump-Diffusion Model for Option Pricing. Management Science 48, 1086–1101. https://doi.org/10.1287/mnsc.48.8.1086.166
 * Rough Volatility (Fractional Brownian Motion, [Wiki](https://en.wikipedia.org/wiki/Fractional_Brownian_motion))
@@ -79,7 +82,7 @@
 * 3/2 Model: Baldeaux, J. (2012). **Exact simulation of the 3/2 model.** Int. J. Theor. Appl. Finan. 15, 1250032. https://doi.org/10.1142/S021902491250032X 
 * SABR Model: Cai, N., Song, Y., Chen, N. (2017). **Exact Simulation of the SABR Model.** Operations Research 65, 931–951. https://doi.org/10.1287/opre.2017.1617 | Choi, J., Liu, C., Seo, B.K. (2019). **Hyperbolic normal stochastic volatility model.** Journal of Futures Markets 39, 186–204. https://doi.org/10.1002/fut.21967
 * OU Stochastic Volatility Model: Li, C., Wu, L. (2019). **Exact simulation of the Ornstein–Uhlenbeck driven stochastic volatility model.** European Journal of Operational Research 275, 768–779. https://doi.org/10.1016/j.ejor.2018.11.057
-* __[MA Thesis Example]__ Chang, X. (2021). The Faster Almost Exact simulation on OUSV model [Mathesis]. Peking University HSBC Business School.
+* __[MA Thesis]__ Chang, X. (2021). The Faster Almost Exact simulation on OUSV model [Mathesis]. Peking University HSBC Business School.
 
 ## Mix and Match for new contribution (The combinations are unlimited !)
 * Model + Product
@@ -105,7 +108,7 @@
 * Risk parity portfolio ([Wiki](https://en.wikipedia.org/wiki/Risk_parity); Equal Risk Contribution): very popular in asset management industry.
   * Maillard, S., Roncalli, T., Teïletche, J. (2010). **The Properties of Equally Weighted Risk Contribution Portfolios.** The Journal of Portfolio Management 36, 60–70. https://doi.org/10.3905/jpm.2010.36.4.060
   * Chaves, D., Hsu, J., Li, F., Shakernia, O. (2012). **Efficient Algorithms for Computing Risk Parity Portfolio Weights.** The Journal of Investing 21, 150–163. https://doi.org/10.3905/joi.2012.21.3.150
-  * __[MA Thesis Example]__ Chen, R. (2021). Multidimensional Root Finding Method for Solving Risk Parity Model [Mathesis]. Peking University HSBC Business School.
+  * __[MA Thesis]__ Chen, R. (2021). Multidimensional Root Finding Method for Solving Risk Parity Model [Mathesis]. Peking University HSBC Business School.
 
 
 ## Trading Strategy
