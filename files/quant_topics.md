@@ -148,11 +148,10 @@
   * __[MA Thesis]__ Zhou, J. (2021). Empirical asset pricing via machine learning in the Chinese Stock Market [Mathesis]. Peking University HSBC Business School.
 * Gu, S., Kelly, B., & Xiu, D. (2020). Autoencoder asset pricing models. Journal of Econometrics. https://doi.org/10.1016/j.jeconom.2020.07.009
   * __[MA Thesis]__ Yu, X. (2021). Autoencoder Asset Pricing Models in China Stock Market [Mathesis]. Peking University HSBC Business School.
+* Giglio, S., Liao, Y., & Xiu, D. (2021). **Thousands of Alpha Tests**. The Review of Financial Studies, 34(7), 3456–3496. https://doi.org/10.1093/rfs/hhaa111
+* Li, K., Mai, F., Shen, R., & Yan, X. (2021). **Measuring Corporate Culture Using Machine Learning.** The Review of Financial Studies, 34(7), 3265–3315. https://doi.org/10.1093/rfs/hhaa079
 * Moritz, B., Zimmermann, T. (2016). **Tree-Based Conditional Portfolio Sorts: The Relation between Past and Future Stock Returns.** SSRN Journal. https://doi.org/10.2139/ssrn.2740751
-* Giglio, S., Liao, Y., Xiu, D. (2018). **Thousands of Alpha Tests.** SSRN Journal. https://doi.org/10.2139/ssrn.3259268
 * Chen, L., Pelger, M., Zhu, J. (2019). **Deep Learning in Asset Pricing.** SSRN Journal. https://doi.org/10.2139/ssrn.3350138
-* Woo, J., Liu, C., Choi, J. (2018). **Leave-One-Out Least Square Monte Carlo Algorithm for Pricing American Options.** [arXiv:1810.02071](http://arxiv.org/abs/1810.02071) [q-fin, stat]. (Early version in **PHBS MA thesis**)
-* Li, K., Mai, F., Shen, R., Yan, X. (2019). **Measuring Corporate Culture Using Machine Learning.** SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3256608
 * Lopez de Prado, M. (2019). **Ten Applications of Financial Machine Learning. SSRN Electronic Journal.** https://ssrn.com/abstract=3365271
 
 ### MA Thesis Example
