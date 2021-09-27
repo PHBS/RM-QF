@@ -29,7 +29,7 @@ __Proposal Report__ | TBA | Due by 11:59 PM
 * Office Hour: TBA
 
 ## Teaching Assistance: 李梦桐 (Mengtong Li)
-* Email: lmt1012@stu.pku.edu.cn
+* Email: 2101212917@stu.pku.edu.cn
 * TA Office Hour: TBA (Room 213/214)
 
 ## Course overview: 
