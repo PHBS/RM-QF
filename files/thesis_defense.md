@@ -30,8 +30,10 @@
 * Come to research seminar and watch how they are organized
 * Practice! Practice! Practice!
   * Thesis seminar is a good opportunity. (Prof. Chu is always harsh.)
-  * Try your best to finish a good draft before thesis seminar.
+  * Try your best to finish a good draft before thesis seminar to receive proper comments
   * Do mock defense several times (among friends or before advisor).
+* Bother your advisor as much as possible.
+  * Advisor tends to pay more attention to the advisees asking questions.
 * Check English prononciation (e.g., `variable`)
 
 ## Tips on quantitative thesis
