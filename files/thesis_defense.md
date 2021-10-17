@@ -5,7 +5,7 @@
 * Your advisor will not be in your committee
 * The advisor name is not revealed to committee
   * Need to hide your advisor's name (e.g., __XXX__) if you cite advisor's journal paper.
-* Due to the increasing number, `quant` theses are allocated to the committee with a professor in the field. 
+* Quantitative theses are allocated to the committee with at least one professor in the field (Choi, Peng, or Econometrics professors)
 
 # Contents of slides
 * __Introduction__: Make introduction interesting 
@@ -18,11 +18,12 @@
   * E.g. robustness check. Gives an impression of your effort.
 * __"Reference" slides__: list references.	
 * Deliver one point in each slide
-* Overall, __20__ pages are maximum.
+* Overall, __20__ pages are recomended maximum.
 
 ## General tips
 * Do not argue with committee
-  * Not because professors are always right
+  * Not because professors are always correct.
+  * But because argue is caused by misunderstanding.
 * What is the limitations of your thesis?
   * Helps prepare the defense strategy.
   * Sometimes, admitting the limitations in advance helps
@@ -31,12 +32,12 @@
   * Thesis seminar is a good opportunity. (Prof. Chu is always harsh.)
   * Try your best to finish a good draft before thesis seminar.
   * Do mock defense several times (among friends or before advisor).
+* Check English prononciation (e.g., `variable`)
 
-## Tips on quantitative topics
+## Tips on quantitative thesis
 * Clarify the goal of thesis in the summary slide
   * Mathematical methods / computational gain
   * Professors in the non-quant area may not be familiar with the goals. So give them a nice warning.
-
 
 ## Words you don't have to say in defense
 * `Dear respected professors` (`Good morning/afternoon, professors` is good enough.)
