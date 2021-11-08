@@ -45,12 +45,13 @@ The general purpose of the Research Methodology course to prepare students for c
 * Present the proposal in class (4 lectures): about 10 minutes including quick discussion/comments from the professors.
 
 ## Final Exam: English for writing
-* 5.15. (Sun) 7 - 8 PM. Rm 417.
+* 11.15. (Mon) 3:30 - 4:20 PM. Rm 415.
 * Exam materials (available in Zotero group). Exact scope will be announced later.
   * _The Elements of Style, Fourth Edition_ by Struck and White
   * _English for Writing Research Papers: Useful Pharase:_ [Download](https://www.springer.com/cda/content/document/cda_downloaddocument/Free+Download+-+Useful+Phrases.pdf?SGWID=0-0-45-1543172-p177775190)
   * The material will __not__ be covered in class. Study by yourself.
   * Exam questions will be from the examples (and slight variations of examples) in the materials (mostly from _the Elements of Style_). 
+* Sample exam: [Download](files/RM2020M3-Exam.pdf)
 * Exam will be in 1 hr. It is closed-book. Answer sheets wil be provided. Do not put anything on desk except pencil.
 * There will be about 30~40 problems. There will be two two type of quesions:
   * __Type 1__: If two choices (a and b) are given, select preferred usage. 
