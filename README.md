@@ -1,26 +1,26 @@
-# Research Methodology for Quant Finance and FinTech, 2021-22 Module 1 (Fall 2021)
+# Research Methodology for Quant Finance and FinTech, 2022-23 Module 1 (Fall 2022)
 
 ## Lectures
 No | Date | Contents
 --- | :---: | ---
-__01__ | 9.06 Mon | Lecture by<br> **Choi**: Course Overview, [Thesis trend](files/thesis_trend.md), and [Zotero](files/zotero.md) <br> **Peng**: Course Introduction (Slides available in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
-__02__ | 9.13 Mon | Lecture by **Choi**: [Zotero](files/zotero.md) with MS Word, [Structure](files/thesis_structure.md), [Topic and Contribution](files/thesis_contribution.md), [Citation and other issues in thesis](files/thesis_format.md).
-__03__ | 9.20 Mon | Lecture by **Peng**: [Asset Pricing with Spatial Interaction](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2627), [A Jump-Diffusion Model for Option Pricing](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.48.8.1086.166). (Papers and slides avilable in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
-__04__ | 10.11 Mon | Lecture by **Choi**: [Quant Finance Topics](files/quant_topics.md), [Bitcoin Literature Review](files/bitcoin_finance_review.md), [Presenation Order](files/presentation.md)
-__05__ | 9.27 Mon | Lecture by **Peng**
-__06__ | 10.18 Mon | Lecture by **Choi** ([Defense Slide](files/thesis_defense.md)) and **Peng**
-__07__ | 10.25 Mon | Proposal Presentation 1 (evaluated by **Choi and Peng**)
-__08__ | 11.01 Mon | Proposal Presentation 2 (evaluated by **Choi and Peng**)
-__09__ | 11.08 Mon | Proposal Presentation 3 (evaluated by **Choi and Peng**)
-__Exam__ | TBA | __7 - 8 PM__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
+__01__ | 8.29 Mon | Lecture by<br> **Choi**: Course Overview, [Thesis trend](files/thesis_trend.md), and [Zotero](files/zotero.md) <br> **Peng**: Course Introduction (Slides available in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
+__02__ | 9.05 Mon | Lecture by **Choi**: [Zotero](files/zotero.md) with MS Word, [Structure](files/thesis_structure.md), [Topic and Contribution](files/thesis_contribution.md), [Citation and other issues in thesis](files/thesis_format.md).
+__03__ | 9.14 Wed | Lecture by **Peng**: [Asset Pricing with Spatial Interaction](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2627), [A Jump-Diffusion Model for Option Pricing](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.48.8.1086.166). (Papers and slides avilable in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
+__04__ | 9.19 Mon | Lecture by **Choi**: [Quant Finance Topics](files/quant_topics.md), [Bitcoin Literature Review](files/bitcoin_finance_review.md), [Presenation Order](files/presentation.md)
+__05__ | 9.26 Mon | Lecture by **Peng**
+__06__ | 10.10 Mon | Lecture by **Choi** ([Defense Slide](files/thesis_defense.md)) and **Peng**
+__07__ | 10.17 Mon | Proposal Presentation 1 (evaluated by **Choi and Peng**)
+__08__ | 10.24 Mon | Proposal Presentation 2 (evaluated by **Choi and Peng**)
+__09__ | 10.31 Mon | Proposal Presentation 3 (evaluated by **Choi and Peng**)
+__Exam__ | 11.12 Sat | __11 AM (1 hr)__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
 __Proposal Report__ | TBA | Due by 11:59 PM
 
 ## Syllabus
-* [Download](files/2021M1_RM_QF_Choi_Peng.pdf)
+* [Download](files/2022M1_RM_QF_Choi_Peng.pdf)
 
 ## Classes: 
-* Lectures: Monday 3:30 – 5:20 PM
-* Venue: PHBS Building, Room 417
+* Lectures: Monday 10:30 AM – 12:20 PM
+* Venue: PHBS Building, Room 423
 
 ## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en) / [Xianhua Peng](https://english.phbs.pku.edu.cn/content-627-104-1.html)
 * Office: PHBS Building, Room 755 / 756
@@ -28,8 +28,8 @@ __Proposal Report__ | TBA | Due by 11:59 PM
 * Email: jaehyuk / xianhuapeng @ phbs.pku.edu.cn
 * Office Hour: TBA
 
-## Teaching Assistance: 李梦桐 (Mengtong Li)
-* Email: 2101212917@stu.pku.edu.cn
+## Teaching Assistance: 孙博 (Sun Bo / Harvey)
+* Email: 2001212291@stu.pku.edu.cn
 * TA Office Hour: TBA (Room 213/214)
 
 ## Course overview: 
@@ -45,7 +45,7 @@ The general purpose of the Research Methodology course to prepare students for c
 * Present the proposal in class (4 lectures): about 10 minutes including quick discussion/comments from the professors.
 
 ## Final Exam: English for writing
-* 11.15. (Mon) 3:30 - 4:20 PM. Rm 415.
+* 11.12. (Mon) 11 AM. Rm 415.
 * Exam materials (available in Zotero group). Exact scope will be announced later.
   * _The Elements of Style, Fourth Edition_ by Struck and White
   * _English for Writing Research Papers: Useful Pharase:_ [Download](https://www.springer.com/cda/content/document/cda_downloaddocument/Free+Download+-+Useful+Phrases.pdf?SGWID=0-0-45-1543172-p177775190)
@@ -65,7 +65,7 @@ The general purpose of the Research Methodology course to prepare students for c
 ## Prerequisites: None
 
 ## Assessment/Grading Details
-Attendance 20%, Presentation and Proposal 50%, Final Exam 30%
+Attendance 10%, Presentation and Proposal 60%, Final Exam 30%
 * __Presentation__: proposal write-up / presentation in class
 * __Attendance__: Randomly checked. The score is calculated as 20 – 2`x`(#of absence). Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
 * __Grade__ in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or below > 10%__.
