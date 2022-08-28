@@ -45,9 +45,9 @@ The general purpose of the Research Methodology course to prepare students for c
 * Present the proposal in class (4 lectures): about 10 minutes including quick discussion/comments from the professors.
 
 ## Final Exam: English for writing
-* 11.12. (Mon) 11 AM. Rm 415.
+* 11.12. (Mon) 11 AM. Rm XXX.
 * Exam materials (available in Zotero group). Exact scope will be announced later.
-  * _The Elements of Style, Fourth Edition_ by Struck and White
+  * _The Elements of Style, __Fourth Edition___ by Struck and White
   * _English for Writing Research Papers: Useful Pharase:_ [Download](https://www.springer.com/cda/content/document/cda_downloaddocument/Free+Download+-+Useful+Phrases.pdf?SGWID=0-0-45-1543172-p177775190)
   * The material will __not__ be covered in class. Study by yourself.
   * Exam questions will be from the examples (and slight variations of examples) in the materials (mostly from _the Elements of Style_). 
