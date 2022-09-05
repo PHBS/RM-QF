@@ -1,24 +1,35 @@
 # Proposal Presentation 
-* Each student has 15 minutes for presentation excluding discussion/comments from the professors.
+* Each student has strictly 15 minutes for presentation excluding discussion/comments from the professors.
 
 ## Presentation Schedule
 Student Number | Chinese Name | English Name
 :---:|:---:|:---:
-**Week 7: 10.25** | ======= | ===============
-1901212548 | 杨鑫 | Yang Xin
-2001212358 | 李攀郁 | Li Panyu
-2001212287 | 宁磊 | Ning Lei
-2001212409 | 叶梦婕 | Ye Mengjie
-2001212322 | 陈凌飞 | Chen Lingfei
-**Week 8: 11.01** | ======= | ===============
-2001212341 | 胡雪阳 | Hu Xueyang
-2001212357 | 李琳雄 | Li Linxiong
-2001212425 | 张文昌 | Zhang Wenchang
-1901212611 | 刘金钊 | Liu Jinzhao
-2001212340 | 胡潇尹 | Hu Xiaoyin
-**Week 9: 11.08** | ======= | ===============
-2001212354 | 李晨欣 | Li Chenxin
-2001212388 | 汪子杰 | Wang Zijie
-2001212378 | 商陈诚 | Shang Chencheng
-1901212597 | 焦中罡 | Jiao Zhonggang
-2001212249 | 徐凯浩 | Xu Kaihao
+**Week 6: 10.10** | ======= | ===============
+2001212298 | 韦强 | Wei Qiang
+2101212327 | 刘君瑶 | Liu Junyao
+2001212337 | 国欣然 | Guo Xinran
+2101212316 | 李炜杭 | Li Weihang
+2101212265 | 杨舒铭 | Yang Shuming
+2001212278 | 李翔宇 | Li Xiangyu
+2101212270 | 包仕涵 | Bao Shihan
+**Week 7: 10.17** | ======= | ===============
+2101212304 | 金鑫磊 | Jin Xinlei
+2101212236 | 巩琭钰 | Gong Luyu
+2001212332 | 伏钰睿 | Fu Yurui
+2101212232 | 陈逸杰 | Chen Yijie
+2101212286 | 董嘉璇 | Dong Jiaxuan
+2101212364 | 吴昊 | Wu Hao
+**Week 8: 10.24** | ======= | ===============
+2101212303 | 金建潼 | Jin Jiantong
+2101212391 | 张肖纬 | Zhang Xiaowei
+2101212359 | 王怡萱 | Wang Yixuan
+2101212283 | 戴亚敏 | Dai Yamin
+2001212335 | 高翔 | Gao Xiang
+2101212244 | 李俊锦 | Li Junjin
+**Week 9: 10.31** | ======= | ===============
+2101212377 | 杨依晗 | Yang Yihan
+2101212280 | 程斌 | Cheng Bin
+2101212262 | 许晴晖 | Xu Qinghui
+2001212272 | 韩怡航 | Han Yihang
+2101212287 | 方泽 | Fang Ze
+2101212277 | 陈婉晴 | Chen Wanqing
