@@ -26,7 +26,7 @@ Student Number | Chinese Name | English Name
 2101212283 | 戴亚敏 | Dai Yamin
 2001212335 | 高翔 | Gao Xiang
 2101212244 | 李俊锦 | Li Junjin
-**Week 9: 10.31** | ======= | ===============
+**Week 9: 10.26** | ======= | ===============
 2101212377 | 杨依晗 | Yang Yihan
 2101212280 | 程斌 | Cheng Bin
 2101212262 | 许晴晖 | Xu Qinghui
