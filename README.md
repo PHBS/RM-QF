@@ -11,8 +11,8 @@ __05__ | 9.26 Mon | Lecture by **Peng**
 __06__ | 10.10 Mon | Proposal Presentation 1 (evaluated by **Choi and Peng**)
 __07__ | 10.17 Mon | Proposal Presentation 2 (evaluated by **Choi and Peng**)
 __08__ | 10.24 Mon | Proposal Presentation 3 (evaluated by **Choi and Peng**)
-__09__ | 10.26 Mon | Proposal Presentation 4 (evaluated by **Choi and Peng**)
-__Exam__ | 11.12 Sat | __11 AM (1 hr)__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
+__09__ | 10.26 Wed | Proposal Presentation 4 (evaluated by **Choi and Peng**)
+__Exam__ | 11.05 Sat | __11 AM (1 hr)__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
 __Proposal Report__ | TBA | Due by 11:59 PM
 
 ## Syllabus
