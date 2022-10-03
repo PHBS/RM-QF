@@ -7,7 +7,6 @@ Student Number | Chinese Name | English Name
 **Week 6: 10.10** | ======= | ===============
 2001212298 | 韦强 | Wei Qiang
 2101212327 | 刘君瑶 | Liu Junyao
-2001212337 | 国欣然 | Guo Xinran
 2101212316 | 李炜杭 | Li Weihang
 2101212265 | 杨舒铭 | Yang Shuming
 2001212278 | 李翔宇 | Li Xiangyu
@@ -19,6 +18,7 @@ Student Number | Chinese Name | English Name
 2101212232 | 陈逸杰 | Chen Yijie
 2101212286 | 董嘉璇 | Dong Jiaxuan
 2101212364 | 吴昊 | Wu Hao
+2001212337 | 国欣然 | Guo Xinran
 **Week 8: 10.24** | ======= | ===============
 2101212303 | 金建潼 | Jin Jiantong
 2101212391 | 张肖纬 | Zhang Xiaowei
