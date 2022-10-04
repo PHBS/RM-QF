@@ -10,7 +10,6 @@ Student Number | Chinese Name | English Name
 2101212316 | 李炜杭 | Li Weihang
 2101212265 | 杨舒铭 | Yang Shuming
 2001212278 | 李翔宇 | Li Xiangyu
-2101212270 | 包仕涵 | Bao Shihan
 **Week 7: 10.17** | ======= | ===============
 2101212304 | 金鑫磊 | Jin Xinlei
 2101212236 | 巩琭钰 | Gong Luyu
@@ -20,6 +19,7 @@ Student Number | Chinese Name | English Name
 2101212364 | 吴昊 | Wu Hao
 2001212337 | 国欣然 | Guo Xinran
 **Week 8: 10.24** | ======= | ===============
+2101212270 | 包仕涵 | Bao Shihan
 2101212303 | 金建潼 | Jin Jiantong
 2101212391 | 张肖纬 | Zhang Xiaowei
 2101212359 | 王怡萱 | Wang Yixuan
