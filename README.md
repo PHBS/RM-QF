@@ -1,22 +1,22 @@
-# Research Methodology for Quant Finance and FinTech, 2022-23 Module 1 (Fall 2022)
+# Research Methodology for Quant Finance and FinTech, 2022-23 Module 3 (Spring 2023)
 
 ## Lectures
 No | Date | Contents
 --- | :---: | ---
-__01__ | 8.29 Mon | Lecture by<br> **Choi**: Course Overview, [Thesis trend](files/thesis_trend.md), and [Zotero](files/zotero.md) <br> **Peng**: Course Introduction (Slides available in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
-__02__ | 9.05 Mon | Lecture by **Choi**: [Zotero](files/zotero.md) with MS Word, [Structure](files/thesis_structure.md), [Topic and Contribution](files/thesis_contribution.md), [Citation and other issues in thesis](files/thesis_format.md).
-__03__ | 9.14 Wed | Lecture by **Peng**: [Asset Pricing with Spatial Interaction](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2627), [A Jump-Diffusion Model for Option Pricing](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.48.8.1086.166). (Papers and slides avilable in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
-__04__ | 9.19 Mon | Lecture by **Choi**: [Quant Finance Topics](files/quant_topics.md), [Bitcoin Literature Review](files/bitcoin_finance_review.md), [Presenation Order](files/presentation.md)
-__05__ | 9.26 Mon | Lecture by **Peng**
-__06__ | 10.10 Mon | Proposal Presentation 1 (evaluated by **Choi and Peng**)
-__07__ | 10.17 Mon | Proposal Presentation 2 (evaluated by **Choi and Peng**)
-__08__ | 10.24 Mon | Proposal Presentation 3 (evaluated by **Choi and Peng**)
-__09__ | 10.26 Wed | Proposal Presentation 4 (evaluated by **Choi and Peng**)
-__Exam__ | 11.05 Sat | __11 AM (1 hr)__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
+__01__ | 2.20 Mon | Lecture by<br> **Choi**: Course Overview, [Thesis trend](files/thesis_trend.md), and [Zotero](files/zotero.md) <br> **Peng**: Course Introduction (Slides available in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
+__02__ | 2.27 Mon | Lecture by **Choi**: [Zotero](files/zotero.md) with MS Word, [Structure](files/thesis_structure.md), [Topic and Contribution](files/thesis_contribution.md), [Citation and other issues in thesis](files/thesis_format.md).
+__03__ | 3.06 Mon | Lecture by **Peng**: [Asset Pricing with Spatial Interaction](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2627), [A Jump-Diffusion Model for Option Pricing](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.48.8.1086.166). (Papers and slides avilable in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
+__04__ | 3.13 Mon | Lecture by **Choi**: [Quant Finance Topics](files/quant_topics.md), [Bitcoin Literature Review](files/bitcoin_finance_review.md), [Presenation Order](files/presentation.md)
+__05__ | 3.20 Mon | Lecture by **Peng**
+__06__ | 3.27 Mon | Proposal Presentation 1 (evaluated by **Choi and Peng**)
+__07__ | 4.03 Mon | Proposal Presentation 2 (evaluated by **Choi and Peng**)
+__08__ | 4.10 Mon | Proposal Presentation 3 (evaluated by **Choi and Peng**)
+__09__ | 4.17 Mon | Proposal Presentation 4 (evaluated by **Choi and Peng**)
+__Exam__ | 4.29 Sat | __11 AM (1 hr)__ [Final Exam (English for thesis writing)](README.md#final-exam-english-for-writing)
 __Proposal Report__ | TBA | Due by 11:59 PM
 
 ## Syllabus
-* [Download](files/2022M1_RM_QF_Choi_Peng.pdf)
+* [Download](files/2022M3_RM_QF_Choi_Peng.pdf)
 
 ## Classes: 
 * Lectures: Monday 10:30 AM – 12:20 PM
@@ -26,11 +26,11 @@ __Proposal Report__ | TBA | Due by 11:59 PM
 * Office: PHBS Building, Room 755 / 756
 * Phone: 86-755-2603-0568 / 3050
 * Email: jaehyuk / xianhuapeng @ phbs.pku.edu.cn
-* Office Hour: TBA
+* Office Hour: Thursday 11-12 AM, 2-3PM (Peng) TBA (Choi)
 
-## Teaching Assistance: 孙博 (Sun Bo / Harvey)
-* Email: 2001212291@stu.pku.edu.cn
-* TA Office Hour: TBA (Room 213/214)
+## Teaching Assistance: (Wu Yi)
+* Email: wuyi51@pku.edu.cn
+* TA Office Hour: Mon & Wed 7-9PM (Room 213/214)
 
 ## Course overview: 
 The general purpose of the Research Methodology course to prepare students for conducting research and writing thesis. This particular session (QF) is customized for the students who are going to write a thesis on a quantitative topics such as mathematical finance, financial engineering, and fintech. Throughout this course, students will first learn what are good research topics by examples. Then, students will be required to their own thesis topics and present in class. It is strongly encouraged that the students pick a **real** topic that they will work for thesis. The course will also equip students with several practical tools such as reference management software and English for thesis writing. 
