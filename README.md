@@ -19,8 +19,8 @@ __Proposal Report__ | TBA | Due by 11:59 PM
 * [Download](files/2022M3_RM_QF_Choi_Peng.pdf)
 
 ## Classes: 
-* Lectures: Monday 10:30 AM – 12:20 PM
-* Venue: PHBS Building, Room 423
+* Lectures: Monday 3:30 – 5:20 PM
+* Venue: PHBS Building, Room 425
 
 ## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en) / [Xianhua Peng](https://english.phbs.pku.edu.cn/content-627-104-1.html)
 * Office: PHBS Building, Room 755 / 756
@@ -45,7 +45,7 @@ The general purpose of the Research Methodology course to prepare students for c
 * Present the proposal in class (4 lectures): about 10 minutes including quick discussion/comments from the professors.
 
 ## Final Exam: English for writing
-* 11.12. (Mon) 11 AM. Rm XXX.
+* 4.29. (Mon) 11 AM. Rm XXX.
 * Exam materials (available in Zotero group). Exact scope will be announced later.
   * _The Elements of Style, __Fourth Edition___ by Struck and White
   * _English for Writing Research Papers: Useful Pharase:_ [Download](https://www.springer.com/cda/content/document/cda_downloaddocument/Free+Download+-+Useful+Phrases.pdf?SGWID=0-0-45-1543172-p177775190)
