@@ -1,7 +1,7 @@
 # Recent trends in MA thesis defense
 
 ## Failed Thesis
-  * 2019 May Defense: 16 out of 300 failed.
+  * Every year, 5% (15-20) students fail in thesis defense.
   * There is a big variation in thesis defense evaluation. It has been raised as an issue and the faculty have been trying to resolve the problem.
   * However, the thesis that failed are low-quality and the thesis with good quality passes with few exceptions. (low-quality thesis sometimes pass and sometimes fail depending on luck.)
   * Rule of thumb: __`Write a good thesis!`__  
