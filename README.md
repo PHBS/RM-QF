@@ -67,5 +67,5 @@ The general purpose of the Research Methodology course to prepare students for c
 ## Assessment/Grading Details
 Attendance 10%, Presentation and Proposal 60%, Final Exam 30%
 * __Presentation__: proposal write-up / presentation in class
-* __Attendance__: Randomly checked. The score is calculated as 20 – 2`x`(#of absence). Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
+* __Attendance__: Randomly checked. The score is calculated as 10 – `x`(#of absence). Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
 * __Grade__ in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or below > 10%__.
