@@ -6,6 +6,7 @@
     > Choi et al. (2020) investigate ...
   * parenthetical citation: outside the sentence
     > The futures are important (Choi et al. 2020).
+
 ![Group Join](../images/Citation-Example.PNG)
 * `China National Standard GB/T 7714` is the standard citation format for thesis. 
   * `Choi (2019)` (single author) or  `Choi et al. (2019)` / `CHOI 等 (2019)` (multiple authors)
