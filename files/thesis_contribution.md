@@ -46,7 +46,7 @@
 * Several improvements have been proposed. Each claim that the method is superior to the original method. However there is no research comparing the new methods.
 * So I posted a question on [Quant StachExchange](https://quant.stackexchange.com/questions/42307/comparison-of-various-improvements-to-hagans-sabr-formula). No answer. So I proposed this as a thesis topic.
 * Zhang, Z., 2019. `Who is the winner of the analytic approximations for the SABR model?` (mathesis). Peking University HSBC Business School, Shenzhen, China.
-* Drawback: lacks
+* Drawback: the thesis is too technical, lacking intuition.
 
 ## Suggestion for Choosing Topic
 * Topic does not have to be so big. You may set a small goal, but plan to achieve it thoroughly. Then, ideas will follow soon.
