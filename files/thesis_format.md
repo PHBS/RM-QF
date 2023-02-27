@@ -26,6 +26,7 @@
 * Use subject "I". It is better than "the author"
   * Example: I contribute to the literature by ...
   * Use "author" to refer to the authors of the references
+* Make sure to correct grammatical mistakes by running software (e.g. [www.grammarly.com](https://app.grammarly.com/))
 
 ## Use of Acronym
   * E.g., Black-Scholes (`BS`) formula, Asset pricing theory (`APT`)
