@@ -157,7 +157,7 @@
 * Chen, L., Pelger, M., Zhu, J. (2019). **Deep Learning in Asset Pricing.** SSRN Journal. https://doi.org/10.2139/ssrn.3350138
 * Lopez de Prado, M. (2019). **Ten Applications of Financial Machine Learning. SSRN Electronic Journal.** https://ssrn.com/abstract=3365271
 
-### MA Thesis Example
+### Other Thesis Examples
 * Long, Shuyi (2019). **Smart Beta Investing: A New Method Based on Machine Learning and Black-Litterman Model** [Mathesis]. Peking University HSBC Business School.
   * Used the probability outcome of ML as in input of the Black-Litterman (asset management) model 
 * Ge, Desheng (2020). **How can the yield curve predict an economic recession?** [Mathesis]. Peking University HSBC Business School.
