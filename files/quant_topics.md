@@ -17,7 +17,7 @@
   * Wilmott Forum: [Link](https://forum.wilmott.com/). Technical Forum, Trading Forum, Numerical Methods Forum.
   * Quantopian (The Place For Learning Quant Finance): [Link](https://www.quantopian.com/)
   * Wikipedia / Baidu / Google
-  * Github.com
+  * Github.com (Cite the source!!)
   
 # Sell Side Research
 * Relatively more established as a academic field: easier to find literature, easier to add contribution
