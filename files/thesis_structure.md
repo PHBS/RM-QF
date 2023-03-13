@@ -13,10 +13,10 @@
 
 ## 1. Introduction
 * Introduction contains the following components. Often they are explicitly divided as subsections (1.1, 1.2, etc)
-  * Background/Motivation: what is research question?, why we study this?, how 
-  * Literature review: important research on the same question. 
-  * Contribution of the study: Why this paper is 
-* Typically ends with `This paper is organized as follows. Section 1 discusses ...`: 
+  * Background/Motivation: what is research question? and why you study this topic?
+  * Literature review: existing papers on the same question. 
+  * Contribution of the study: why this paper should be published?
+* Typically ends with `This paper is organized as follows. Section 2 discusses ...`: 
 * There is no strict rule on how to organize introduction.
 
 ## 2. Data/Method (Preliminary)
