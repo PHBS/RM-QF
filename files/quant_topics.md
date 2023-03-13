@@ -82,7 +82,10 @@
 * 3/2 Model: Baldeaux, J. (2012). **Exact simulation of the 3/2 model.** Int. J. Theor. Appl. Finan. 15, 1250032. https://doi.org/10.1142/S021902491250032X 
 * SABR Model: Cai, N., Song, Y., Chen, N. (2017). **Exact Simulation of the SABR Model.** Operations Research 65, 931–951. https://doi.org/10.1287/opre.2017.1617 | Choi, J., Liu, C., Seo, B.K. (2019). **Hyperbolic normal stochastic volatility model.** Journal of Futures Markets 39, 186–204. https://doi.org/10.1002/fut.21967
 * OU Stochastic Volatility Model: Li, C., Wu, L. (2019). **Exact simulation of the Ornstein–Uhlenbeck driven stochastic volatility model.** European Journal of Operational Research 275, 768–779. https://doi.org/10.1016/j.ejor.2018.11.057
-* __[MA Thesis]__ Chang, X. (2021). The Faster Almost Exact simulation on OUSV model [Mathesis]. Peking University HSBC Business School.
+* Example Thesis:
+  * __[MA Thesis]__ Chang, X. (2021). The Faster Almost Exact simulation on OUSV model [Mathesis]. Peking University HSBC Business School.
+  * __[MA Thesis]__ Wang, C. (2022). A New Method for Almost Exact Simulation of Heston Stochastic Volatility Model [Mathesis]. Peking University HSBC Business School.
+
 
 ## Mix and Match for new contribution (The combinations are unlimited !)
 * Model + Product
