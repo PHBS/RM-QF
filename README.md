@@ -26,7 +26,7 @@ __Proposal Report__ | TBA | Due by 11:59 PM
 * Office: PHBS Building, Room 755 / 756
 * Phone: 86-755-2603-0568 / 3050
 * Email: jaehyuk / xianhuapeng @ phbs.pku.edu.cn
-* Office Hour: Thursday 11-12 AM, 2-3 PM (Peng) Monday 7-9 PM (Choi)
+* Office Hour: Thursday 11-12 AM, 2-3 PM (Peng) Monday 7-9 PM (Choi) [Tentative]
 
 ## Teaching Assistance: (Wu Yi)
 * Email: wuyi51@pku.edu.cn
