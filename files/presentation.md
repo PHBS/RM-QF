@@ -4,7 +4,7 @@
 ## Presentation Schedule
 Student Number | Chinese Name | English Name
 :---:|:---:|:---:
-**Week 7: 4.03** | ======= | ===============
+**Week 7: 4.01** | ======= | ===============
 2201212280 | 林贝贝 | Lam Pui Pui
 2201212434 | 张乐康 | Zhang Lekang
 2201212401 | 沈忆楠 | Shen Yinan
@@ -12,14 +12,14 @@ Student Number | Chinese Name | English Name
 2201212399 | 全威霖 | Quan Weilin
 2201212350 | 范莹瑭 | Fan Yingtang
 2201212447 | 周恩泽 | Zhou Enze
-**Week 8: 4.10** | ======= | ===============
+**Week 8: 4.08** | ======= | ===============
 2201212419 | 王学娟 | Wang Xuejuan
 2201212941 | 余铭瑶 | Yu Mingyao
 2201212265 | 王亚非 | Wang Yafei
 2201212385 | 李远哲 | Li Yuanzhe
 2201212430 | 杨刈非 | Yang Yifei
 2201212442 | 张元哲 | Zhang Yuanzhe
-**Week 9: 4.17** | ======= | ===============
+**Week 9: 4.15** | ======= | ===============
 2201212247 | 张凯玮 | Zhang Kaiwei
 2201212338 | 陈龙 | Chen Long
 2201212307 | 马楚杰 | Ma Chujie
