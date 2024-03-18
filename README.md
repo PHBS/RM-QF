@@ -6,8 +6,8 @@ No | Date | Contents
 __01__ | 2.19 Mon | Lecture by<br> **Choi**: Course Overview, [Thesis trend](files/thesis_trend.md), and [Zotero](files/zotero.md) <br> **Peng**: Course Introduction (Slides available in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
 __02__ | 2.26 Mon | Lecture by **Peng**: [Asset Pricing with Spatial Interaction](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2627), [A Jump-Diffusion Model for Option Pricing](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.48.8.1086.166). (Papers and slides avilable in [Zotero group library](https://www.zotero.org/groups/2363301/phbs-rm-qf))
 __03__ | 3.04 Mon | Lecture by **Choi**: <li>[Presenation Order](files/presentation.md)</li> <li> [Topic and Contribution](files/thesis_contribution.md)</li> <li>[Citation and other issues in thesis](files/thesis_format.md) ([Zotero](files/zotero.md) with MS Word)</li>
-__04__ | 3.11 Mon | Lecture by **Choi**: <li> [Thesis Structure](files/thesis_structure.md).</li> <li>[Quant Finance Topics](files/quant_topics.md)</li> <li>[Bitcoin Literature Review](files/bitcoin_finance_review.md).</li>
-__05__ | 3.18 Mon | Lecture by **Peng**
+__04__ | 3.18 Mon | Lecture by **Peng**
+__05__ | 3.11 Mon | Lecture by **Choi**: <li> [Thesis Structure](files/thesis_structure.md).</li> <li>[Quant Finance Topics](files/quant_topics.md)</li> <li>[Bitcoin Literature Review](files/bitcoin_finance_review.md).</li>
 __06__ | 3.25 Mon | Proposal Presentation 1 (evaluated by **Choi and Peng**)
 __07__ | 4.01 Mon | Proposal Presentation 2 (evaluated by **Choi and Peng**)
 __08__ | 4.08 Mon | Proposal Presentation 3 (evaluated by **Choi and Peng**)
